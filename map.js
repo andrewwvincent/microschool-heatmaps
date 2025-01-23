@@ -87,13 +87,12 @@ function loadCityList() {
     }
 
     try {
-        // Get cities from config
-        const cities = {};
-        const files = Object.entries(config.cities).reduce((acc, [city, paths]) => {
-            const cityName = formatCityName(city);
-            cities[cityName] = paths;
-            return acc;
-        }, {});
+        // Get cities from config and format their names
+        const formattedCities = {};
+        Object.entries(config.cities).forEach(([city, paths]) => {
+            const formattedName = formatCityName(city);
+            formattedCities[formattedName] = paths;
+        });
 
         // Wait for DOM to be ready
         const initializeSelector = () => {
@@ -104,14 +103,14 @@ function loadCityList() {
                 return;
             }
 
-            // Update the city selector
+            // Update the city selector with formatted names
             citySelector.innerHTML = '<option value="">Select a city</option>' +
-                Object.keys(cities).sort().map(city => 
+                Object.keys(formattedCities).sort().map(city => 
                     `<option value="${city}">${city}</option>`
                 ).join('');
 
-            // Store the cities in config with formatted names
-            config.cities = cities;
+            // Store the formatted cities back in config
+            config.cities = formattedCities;
 
             // Add event listener for city selection
             citySelector.addEventListener('change', (e) => {
