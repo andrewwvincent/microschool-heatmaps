@@ -52,6 +52,14 @@ const config = {
             '250k': 'data/Dallas_Demographics_Kids__$250k_HH_Income_250k_filtered.kml',
             '500k': 'data/Dallas_Demographics_Kids__$250k_HH_Income_500k_filtered.kml'
         },
+        'Denver': {
+            '250k': 'data/Denver_Demographics_Kids__$250k_HH_Income_250k_filtered.kml',
+            '500k': 'data/Denver_Demographics_Kids__$250k_HH_Income_500k_filtered.kml'
+        },
+        'Fort Worth': {
+            '250k': 'data/Fort_Worth_Demographics_Kids__$250k_HH_Income_250k_filtered.kml',
+            '500k': 'data/Fort_Worth_Demographics_Kids__$250k_HH_Income_500k_filtered.kml'
+        },
         'Houston': {
             '250k': 'data/Houston Demographics_250k_filtered.kml',
             '500k': 'data/Houston Demographics_500k_filtered.kml'
@@ -71,6 +79,10 @@ const config = {
         'Tampa': {
             '250k': 'data/Tampa Demographics_250k_filtered.kml',
             '500k': 'data/Tampa Demographics_500k_filtered.kml'
+        },
+        'West Palm Beach': {
+            '250k': 'data/West_Palm_Beach_Demographics_Kids__$250k_HH_Income_250k_filtered.kml',
+            '500k': 'data/West_Palm_Beach_Demographics_Kids__$250k_HH_Income_500k_filtered.kml'
         }
     }
 };
