@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demographics Map Viewer</title>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet">
+    <link href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.0/mapbox-gl-geocoder.css" type="text/css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.0/mapbox-gl-geocoder.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h1>Demographics Map Viewer</h1>
+            
+            <!-- Search Box -->
+            <div class="search-box">
+                <div id="geocoder" class="geocoder"></div>
+            </div>
+
+            <!-- Layer Controls -->
+            <div class="layer-controls">
+                <h3>$250k Households</h3>
+                <div class="layer-group">
+                    <label>
+                        <input type="checkbox" id="income250k-all" checked>
+                        All $250k Categories
+                    </label>
+                    <div class="category-list" id="income250k-categories">
+                        <label class="category-item">
+                            <input type="checkbox" class="category-checkbox" data-income="250k" value="1500+ Kids" checked>
+                            <span class="color-indicator" style="background-color: rgba(255, 0, 0, 0.4)"></span>
+                            1500+ Kids
+                        </label>
+                        <label class="category-item">
+                            <input type="checkbox" class="category-checkbox" data-income="250k" value="1250-1500 Kids" checked>
+                            <span class="color-indicator" style="background-color: rgba(255, 102, 0, 0.4)"></span>
+                            1250-1500 Kids
+                        </label>
+                        <label class="category-item">
+                            <input type="checkbox" class="category-checkbox" data-income="250k" value="1000-1250 Kids" checked>
+                            <span class="color-indicator" style="background-color: rgba(255, 204, 0, 0.4)"></span>
+                            1000-1250 Kids
+                        </label>
+                        <label class="category-item">
+                            <input type="checkbox" class="category-checkbox" data-income="250k" value="750-1000 Kids" checked>
+                            <span class="color-indicator" style="background-color: rgba(102, 204, 0, 0.4)"></span>
+                            750-1000 Kids
+                        </label>
+                        <label class="category-item">
+                            <input type="checkbox" class="category-checkbox" data-income="250k" value="500-750 Kids" checked>
+                            <span class="color-indicator" style="background-color: rgba(0, 153, 0, 0.4)"></span>
+                            500-750 Kids
+                        </label>
+                    </div>
+                </div>
+
+                <h3>$500k Households</h3>
+                <div class="layer-group">
+                    <label>
+                        <input type="checkbox" id="income500k-all">
+                        All $500k Categories
+                    </label>
+                    <div class="category-list" id="income500k-categories">
+                        <label class="category-item">
+                            <input type="checkbox" class="category-checkbox" data-income="500k" value="1500+ Kids">
+                            <span class="color-indicator" style="background-color: rgba(255, 0, 0, 0.7)"></span>
+                            1500+ Kids
+                        </label>
+                        <label class="category-item">
+                            <input type="checkbox" class="category-checkbox" data-income="500k" value="1250-1500 Kids">
+                            <span class="color-indicator" style="background-color: rgba(255, 102, 0, 0.7)"></span>
+                            1250-1500 Kids
+                        </label>
+                        <label class="category-item">
+                            <input type="checkbox" class="category-checkbox" data-income="500k" value="1000-1250 Kids">
+                            <span class="color-indicator" style="background-color: rgba(255, 204, 0, 0.7)"></span>
+                            1000-1250 Kids
+                        </label>
+                        <label class="category-item">
+                            <input type="checkbox" class="category-checkbox" data-income="500k" value="750-1000 Kids">
+                            <span class="color-indicator" style="background-color: rgba(102, 204, 0, 0.7)"></span>
+                            750-1000 Kids
+                        </label>
+                        <label class="category-item">
+                            <input type="checkbox" class="category-checkbox" data-income="500k" value="500-750 Kids">
+                            <span class="color-indicator" style="background-color: rgba(0, 153, 0, 0.7)"></span>
+                            500-750 Kids
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- City Selection -->
+            <div class="city-group">
+                <h3>City Selection</h3>
+                <select id="citySelect"></select>
+            </div>
+
+            <!-- Info Panel -->
+            <div class="info-panel">
+                <h3>Information</h3>
+                <div id="feature-info">
+                    Click on an area to see details
+                </div>
+            </div>
+        </div>
+        <div id="map"></div>
+    </div>
+    <script src="config.js"></script>
+    <script src="map.js"></script>
+</body>
+</html>

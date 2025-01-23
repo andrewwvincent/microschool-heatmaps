@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<n>100109</n>
+<description>1500+ Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7357,34.4209,0 -119.7207,34.4209,0 -119.7207,34.4359,0 -119.7357,34.4359,0 -119.7357,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100101</n>
+<description>1500+ Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7507,34.4209,0 -119.7357,34.4209,0 -119.7357,34.4359,0 -119.7507,34.4359,0 -119.7507,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100126</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7057,34.4059,0 -119.6907,34.4059,0 -119.6907,34.4209,0 -119.7057,34.4209,0 -119.7057,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100108</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7357,34.4359,0 -119.7207,34.4359,0 -119.7207,34.4509,0 -119.7357,34.4509,0 -119.7357,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100116</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7207,34.4359,0 -119.7057,34.4359,0 -119.7057,34.4509,0 -119.7207,34.4509,0 -119.7207,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100102</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7507,34.4059,0 -119.7357,34.4059,0 -119.7357,34.4209,0 -119.7507,34.4209,0 -119.7507,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100150</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6607,34.4059,0 -119.6457,34.4059,0 -119.6457,34.4209,0 -119.6607,34.4209,0 -119.6607,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100151</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6607,34.3909,0 -119.6457,34.3909,0 -119.6457,34.4059,0 -119.6607,34.4059,0 -119.6607,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100152</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6607,34.3759,0 -119.6457,34.3759,0 -119.6457,34.3909,0 -119.6607,34.3909,0 -119.6607,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100124</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7057,34.4359,0 -119.6907,34.4359,0 -119.6907,34.4509,0 -119.7057,34.4509,0 -119.7057,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100117</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7207,34.4209,0 -119.7057,34.4209,0 -119.7057,34.4359,0 -119.7207,34.4359,0 -119.7207,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100092</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7657,34.4359,0 -119.7507,34.4359,0 -119.7507,34.4509,0 -119.7657,34.4509,0 -119.7657,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100143</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6757,34.3909,0 -119.6607,34.3909,0 -119.6607,34.4059,0 -119.6757,34.4059,0 -119.6757,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100118</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7207,34.4059,0 -119.7057,34.4059,0 -119.7057,34.4209,0 -119.7207,34.4209,0 -119.7207,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100142</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6757,34.4059,0 -119.6607,34.4059,0 -119.6607,34.4209,0 -119.6757,34.4209,0 -119.6757,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100076</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7957,34.4359,0 -119.7807,34.4359,0 -119.7807,34.4509,0 -119.7957,34.4509,0 -119.7957,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100100</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7507,34.4359,0 -119.7357,34.4359,0 -119.7357,34.4509,0 -119.7507,34.4509,0 -119.7507,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100157</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6457,34.4209,0 -119.6307,34.4209,0 -119.6307,34.4359,0 -119.6457,34.4359,0 -119.6457,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100148</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6607,34.4359,0 -119.6457,34.4359,0 -119.6457,34.4509,0 -119.6607,34.4509,0 -119.6607,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100106</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7357,34.4659,0 -119.7207,34.4659,0 -119.7207,34.4809,0 -119.7357,34.4809,0 -119.7357,34.4659,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100107</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7357,34.4509,0 -119.7207,34.4509,0 -119.7207,34.4659,0 -119.7357,34.4659,0 -119.7357,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100099</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7507,34.4509,0 -119.7357,34.4509,0 -119.7357,34.4659,0 -119.7507,34.4659,0 -119.7507,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100140</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6757,34.4359,0 -119.6607,34.4359,0 -119.6607,34.4509,0 -119.6757,34.4509,0 -119.6757,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100160</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6457,34.3759,0 -119.6307,34.3759,0 -119.6307,34.3909,0 -119.6457,34.3909,0 -119.6457,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100168</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6307,34.3759,0 -119.6157,34.3759,0 -119.6157,34.3909,0 -119.6307,34.3909,0 -119.6307,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100084</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7807,34.4359,0 -119.7657,34.4359,0 -119.7657,34.4509,0 -119.7807,34.4509,0 -119.7807,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100158</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6457,34.4059,0 -119.6307,34.4059,0 -119.6307,34.4209,0 -119.6457,34.4209,0 -119.6457,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100159</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6457,34.3909,0 -119.6307,34.3909,0 -119.6307,34.4059,0 -119.6457,34.4059,0 -119.6457,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100091</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7657,34.4509,0 -119.7507,34.4509,0 -119.7507,34.4659,0 -119.7657,34.4659,0 -119.7657,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100149</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6607,34.4209,0 -119.6457,34.4209,0 -119.6457,34.4359,0 -119.6607,34.4359,0 -119.6607,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100134</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6907,34.4059,0 -119.6757,34.4059,0 -119.6757,34.4209,0 -119.6907,34.4209,0 -119.6907,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100132</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6907,34.4359,0 -119.6757,34.4359,0 -119.6757,34.4509,0 -119.6907,34.4509,0 -119.6907,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100082</n>
+<description>1250-1500 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7807,34.4659,0 -119.7657,34.4659,0 -119.7657,34.4809,0 -119.7807,34.4809,0 -119.7807,34.4659,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100141</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6757,34.4209,0 -119.6607,34.4209,0 -119.6607,34.4359,0 -119.6757,34.4359,0 -119.6757,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100083</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7807,34.4509,0 -119.7657,34.4509,0 -119.7657,34.4659,0 -119.7807,34.4659,0 -119.7807,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100103</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7507,34.3909,0 -119.7357,34.3909,0 -119.7357,34.4059,0 -119.7507,34.4059,0 -119.7507,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100085</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7807,34.4209,0 -119.7657,34.4209,0 -119.7657,34.4359,0 -119.7807,34.4359,0 -119.7807,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100089</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7657,34.4809,0 -119.7507,34.4809,0 -119.7507,34.4959,0 -119.7657,34.4959,0 -119.7657,34.4809,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100081</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7807,34.4809,0 -119.7657,34.4809,0 -119.7657,34.4959,0 -119.7807,34.4959,0 -119.7807,34.4809,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100166</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6307,34.4059,0 -119.6157,34.4059,0 -119.6157,34.4209,0 -119.6307,34.4209,0 -119.6307,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100125</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7057,34.4209,0 -119.6907,34.4209,0 -119.6907,34.4359,0 -119.7057,34.4359,0 -119.7057,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100093</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7657,34.4209,0 -119.7507,34.4209,0 -119.7507,34.4359,0 -119.7657,34.4359,0 -119.7657,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100167</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6307,34.3909,0 -119.6157,34.3909,0 -119.6157,34.4059,0 -119.6307,34.4059,0 -119.6307,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100115</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7207,34.4509,0 -119.7057,34.4509,0 -119.7057,34.4659,0 -119.7207,34.4659,0 -119.7207,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100067</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8107,34.4509,0 -119.7957,34.4509,0 -119.7957,34.4659,0 -119.8107,34.4659,0 -119.8107,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100075</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7957,34.4509,0 -119.7807,34.4509,0 -119.7807,34.4659,0 -119.7957,34.4659,0 -119.7957,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100156</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6457,34.4359,0 -119.6307,34.4359,0 -119.6307,34.4509,0 -119.6457,34.4509,0 -119.6457,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100086</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7807,34.4059,0 -119.7657,34.4059,0 -119.7657,34.4209,0 -119.7807,34.4209,0 -119.7807,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100087</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7807,34.3909,0 -119.7657,34.3909,0 -119.7657,34.4059,0 -119.7807,34.4059,0 -119.7807,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100080</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7957,34.3759,0 -119.7807,34.3759,0 -119.7807,34.3909,0 -119.7957,34.3909,0 -119.7957,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100098</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7507,34.4659,0 -119.7357,34.4659,0 -119.7357,34.4809,0 -119.7507,34.4809,0 -119.7507,34.4659,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100110</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7357,34.4059,0 -119.7207,34.4059,0 -119.7207,34.4209,0 -119.7357,34.4209,0 -119.7357,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100078</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7957,34.4059,0 -119.7807,34.4059,0 -119.7807,34.4209,0 -119.7957,34.4209,0 -119.7957,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100079</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7957,34.3909,0 -119.7807,34.3909,0 -119.7807,34.4059,0 -119.7957,34.4059,0 -119.7957,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100175</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6157,34.3909,0 -119.6007,34.3909,0 -119.6007,34.4059,0 -119.6157,34.4059,0 -119.6157,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100176</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6157,34.3759,0 -119.6007,34.3759,0 -119.6007,34.3909,0 -119.6157,34.3909,0 -119.6157,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100123</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7057,34.4509,0 -119.6907,34.4509,0 -119.6907,34.4659,0 -119.7057,34.4659,0 -119.7057,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100060</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8257,34.4359,0 -119.8107,34.4359,0 -119.8107,34.4509,0 -119.8257,34.4509,0 -119.8257,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100173</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6157,34.4209,0 -119.6007,34.4209,0 -119.6007,34.4359,0 -119.6157,34.4359,0 -119.6157,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100164</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6307,34.4359,0 -119.6157,34.4359,0 -119.6157,34.4509,0 -119.6307,34.4509,0 -119.6307,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100095</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7657,34.3909,0 -119.7507,34.3909,0 -119.7507,34.4059,0 -119.7657,34.4059,0 -119.7657,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100088</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7807,34.3759,0 -119.7657,34.3759,0 -119.7657,34.3909,0 -119.7807,34.3909,0 -119.7807,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100096</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7657,34.3759,0 -119.7507,34.3759,0 -119.7507,34.3909,0 -119.7657,34.3909,0 -119.7657,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100184</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6007,34.3759,0 -119.5857,34.3759,0 -119.5857,34.3909,0 -119.6007,34.3909,0 -119.6007,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100190</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5857,34.4059,0 -119.5707,34.4059,0 -119.5707,34.4209,0 -119.5857,34.4209,0 -119.5857,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100191</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5857,34.3909,0 -119.5707,34.3909,0 -119.5707,34.4059,0 -119.5857,34.4059,0 -119.5857,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100192</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5857,34.3759,0 -119.5707,34.3759,0 -119.5707,34.3909,0 -119.5857,34.3909,0 -119.5857,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100174</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6157,34.4059,0 -119.6007,34.4059,0 -119.6007,34.4209,0 -119.6157,34.4209,0 -119.6157,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100182</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6007,34.4059,0 -119.5857,34.4059,0 -119.5857,34.4209,0 -119.6007,34.4209,0 -119.6007,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100183</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6007,34.3909,0 -119.5857,34.3909,0 -119.5857,34.4059,0 -119.6007,34.4059,0 -119.6007,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100133</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6907,34.4209,0 -119.6757,34.4209,0 -119.6757,34.4359,0 -119.6907,34.4359,0 -119.6907,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100090</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7657,34.4659,0 -119.7507,34.4659,0 -119.7507,34.4809,0 -119.7657,34.4809,0 -119.7657,34.4659,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100097</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7507,34.4809,0 -119.7357,34.4809,0 -119.7357,34.4959,0 -119.7507,34.4959,0 -119.7507,34.4809,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100068</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8107,34.4359,0 -119.7957,34.4359,0 -119.7957,34.4509,0 -119.8107,34.4509,0 -119.8107,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100165</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6307,34.4209,0 -119.6157,34.4209,0 -119.6157,34.4359,0 -119.6307,34.4359,0 -119.6307,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100077</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7957,34.4209,0 -119.7807,34.4209,0 -119.7807,34.4359,0 -119.7957,34.4359,0 -119.7957,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100073</n>
+<description>1000-1250 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7957,34.4809,0 -119.7807,34.4809,0 -119.7807,34.4959,0 -119.7957,34.4959,0 -119.7957,34.4809,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100181</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6007,34.4209,0 -119.5857,34.4209,0 -119.5857,34.4359,0 -119.6007,34.4359,0 -119.6007,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100139</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6757,34.4509,0 -119.6607,34.4509,0 -119.6607,34.4659,0 -119.6757,34.4659,0 -119.6757,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100131</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6907,34.4509,0 -119.6757,34.4509,0 -119.6757,34.4659,0 -119.6907,34.4659,0 -119.6907,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100147</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6607,34.4509,0 -119.6457,34.4509,0 -119.6457,34.4659,0 -119.6607,34.4659,0 -119.6607,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100094</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7657,34.4059,0 -119.7507,34.4059,0 -119.7507,34.4209,0 -119.7657,34.4209,0 -119.7657,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100206</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5557,34.4059,0 -119.5407,34.4059,0 -119.5407,34.4209,0 -119.5557,34.4209,0 -119.5557,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100198</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5707,34.4059,0 -119.5557,34.4059,0 -119.5557,34.4209,0 -119.5707,34.4209,0 -119.5707,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100189</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5857,34.4209,0 -119.5707,34.4209,0 -119.5707,34.4359,0 -119.5857,34.4359,0 -119.5857,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100199</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5707,34.3909,0 -119.5557,34.3909,0 -119.5557,34.4059,0 -119.5707,34.4059,0 -119.5707,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100155</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6457,34.4509,0 -119.6307,34.4509,0 -119.6307,34.4659,0 -119.6457,34.4659,0 -119.6457,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100163</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6307,34.4509,0 -119.6157,34.4509,0 -119.6157,34.4659,0 -119.6307,34.4659,0 -119.6307,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100104</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7507,34.3759,0 -119.7357,34.3759,0 -119.7357,34.3909,0 -119.7507,34.3909,0 -119.7507,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100172</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6157,34.4359,0 -119.6007,34.4359,0 -119.6007,34.4509,0 -119.6157,34.4509,0 -119.6157,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100112</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7357,34.3759,0 -119.7207,34.3759,0 -119.7207,34.3909,0 -119.7357,34.3909,0 -119.7357,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100111</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7357,34.3909,0 -119.7207,34.3909,0 -119.7207,34.4059,0 -119.7357,34.4059,0 -119.7357,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100059</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8257,34.4509,0 -119.8107,34.4509,0 -119.8107,34.4659,0 -119.8257,34.4659,0 -119.8257,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100188</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5857,34.4359,0 -119.5707,34.4359,0 -119.5707,34.4509,0 -119.5857,34.4509,0 -119.5857,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100119</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7207,34.3909,0 -119.7057,34.3909,0 -119.7057,34.4059,0 -119.7207,34.4059,0 -119.7207,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100207</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5557,34.3909,0 -119.5407,34.3909,0 -119.5407,34.4059,0 -119.5557,34.4059,0 -119.5557,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100200</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5707,34.3759,0 -119.5557,34.3759,0 -119.5557,34.3909,0 -119.5707,34.3909,0 -119.5707,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100208</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5557,34.3759,0 -119.5407,34.3759,0 -119.5407,34.3909,0 -119.5557,34.3909,0 -119.5557,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100180</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6007,34.4359,0 -119.5857,34.4359,0 -119.5857,34.4509,0 -119.6007,34.4509,0 -119.6007,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100196</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5707,34.4359,0 -119.5557,34.4359,0 -119.5557,34.4509,0 -119.5707,34.4509,0 -119.5707,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100197</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5707,34.4209,0 -119.5557,34.4209,0 -119.5557,34.4359,0 -119.5707,34.4359,0 -119.5707,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100049</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8407,34.4809,0 -119.8257,34.4809,0 -119.8257,34.4959,0 -119.8407,34.4959,0 -119.8407,34.4809,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100050</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8407,34.4659,0 -119.8257,34.4659,0 -119.8257,34.4809,0 -119.8407,34.4809,0 -119.8407,34.4659,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100058</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8257,34.4659,0 -119.8107,34.4659,0 -119.8107,34.4809,0 -119.8257,34.4809,0 -119.8257,34.4659,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100051</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8407,34.4509,0 -119.8257,34.4509,0 -119.8257,34.4659,0 -119.8407,34.4659,0 -119.8407,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100187</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5857,34.4509,0 -119.5707,34.4509,0 -119.5707,34.4659,0 -119.5857,34.4659,0 -119.5857,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100214</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5407,34.4059,0 -119.5257,34.4059,0 -119.5257,34.4209,0 -119.5407,34.4209,0 -119.5407,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100179</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6007,34.4509,0 -119.5857,34.4509,0 -119.5857,34.4659,0 -119.6007,34.4659,0 -119.6007,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100120</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7207,34.3759,0 -119.7057,34.3759,0 -119.7057,34.3909,0 -119.7207,34.3909,0 -119.7207,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100069</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8107,34.4209,0 -119.7957,34.4209,0 -119.7957,34.4359,0 -119.8107,34.4359,0 -119.8107,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100205</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5557,34.4209,0 -119.5407,34.4209,0 -119.5407,34.4359,0 -119.5557,34.4359,0 -119.5557,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100135</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6907,34.3909,0 -119.6757,34.3909,0 -119.6757,34.4059,0 -119.6907,34.4059,0 -119.6907,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100136</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6907,34.3759,0 -119.6757,34.3759,0 -119.6757,34.3909,0 -119.6907,34.3909,0 -119.6907,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100144</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.6757,34.3759,0 -119.6607,34.3759,0 -119.6607,34.3909,0 -119.6757,34.3909,0 -119.6757,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100052</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8407,34.4359,0 -119.8257,34.4359,0 -119.8257,34.4509,0 -119.8407,34.4509,0 -119.8407,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100074</n>
+<description>750-1000 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7957,34.4659,0 -119.7807,34.4659,0 -119.7807,34.4809,0 -119.7957,34.4809,0 -119.7957,34.4659,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100204</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5557,34.4359,0 -119.5407,34.4359,0 -119.5407,34.4509,0 -119.5557,34.4509,0 -119.5557,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100054</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8407,34.4059,0 -119.8257,34.4059,0 -119.8257,34.4209,0 -119.8407,34.4209,0 -119.8407,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100055</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8407,34.3909,0 -119.8257,34.3909,0 -119.8257,34.4059,0 -119.8407,34.4059,0 -119.8407,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100043</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8557,34.4509,0 -119.8407,34.4509,0 -119.8407,34.4659,0 -119.8557,34.4659,0 -119.8557,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100215</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5407,34.3909,0 -119.5257,34.3909,0 -119.5257,34.4059,0 -119.5407,34.4059,0 -119.5407,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100044</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8557,34.4359,0 -119.8407,34.4359,0 -119.8407,34.4509,0 -119.8557,34.4509,0 -119.8557,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100036</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8707,34.4359,0 -119.8557,34.4359,0 -119.8557,34.4509,0 -119.8707,34.4509,0 -119.8707,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100195</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5707,34.4509,0 -119.5557,34.4509,0 -119.5557,34.4659,0 -119.5707,34.4659,0 -119.5707,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100127</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7057,34.3909,0 -119.6907,34.3909,0 -119.6907,34.4059,0 -119.7057,34.4059,0 -119.7057,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100128</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.7057,34.3759,0 -119.6907,34.3759,0 -119.6907,34.3909,0 -119.7057,34.3909,0 -119.7057,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100066</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8107,34.4659,0 -119.7957,34.4659,0 -119.7957,34.4809,0 -119.8107,34.4809,0 -119.8107,34.4659,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100028</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8857,34.4359,0 -119.8707,34.4359,0 -119.8707,34.4509,0 -119.8857,34.4509,0 -119.8857,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100035</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8707,34.4509,0 -119.8557,34.4509,0 -119.8557,34.4659,0 -119.8707,34.4659,0 -119.8707,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100056</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8407,34.3759,0 -119.8257,34.3759,0 -119.8257,34.3909,0 -119.8407,34.3909,0 -119.8407,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100064</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8257,34.3759,0 -119.8107,34.3759,0 -119.8107,34.3909,0 -119.8257,34.3909,0 -119.8257,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100047</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8557,34.3909,0 -119.8407,34.3909,0 -119.8407,34.4059,0 -119.8557,34.4059,0 -119.8557,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100048</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8557,34.3759,0 -119.8407,34.3759,0 -119.8407,34.3909,0 -119.8557,34.3909,0 -119.8557,34.3759,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100203</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.5557,34.4509,0 -119.5407,34.4509,0 -119.5407,34.4659,0 -119.5557,34.4659,0 -119.5557,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100065</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8107,34.4809,0 -119.7957,34.4809,0 -119.7957,34.4959,0 -119.8107,34.4959,0 -119.8107,34.4809,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100045</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8557,34.4209,0 -119.8407,34.4209,0 -119.8407,34.4359,0 -119.8557,34.4359,0 -119.8557,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100046</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8557,34.4059,0 -119.8407,34.4059,0 -119.8407,34.4209,0 -119.8557,34.4209,0 -119.8557,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100053</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8407,34.4209,0 -119.8257,34.4209,0 -119.8257,34.4359,0 -119.8407,34.4359,0 -119.8407,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100063</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8257,34.3909,0 -119.8107,34.3909,0 -119.8107,34.4059,0 -119.8257,34.4059,0 -119.8257,34.3909,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100062</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8257,34.4059,0 -119.8107,34.4059,0 -119.8107,34.4209,0 -119.8257,34.4209,0 -119.8257,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100020</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.9007,34.4359,0 -119.8857,34.4359,0 -119.8857,34.4509,0 -119.9007,34.4509,0 -119.9007,34.4359,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100037</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8707,34.4209,0 -119.8557,34.4209,0 -119.8557,34.4359,0 -119.8707,34.4359,0 -119.8707,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100042</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8557,34.4659,0 -119.8407,34.4659,0 -119.8407,34.4809,0 -119.8557,34.4809,0 -119.8557,34.4659,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100061</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8257,34.4209,0 -119.8107,34.4209,0 -119.8107,34.4359,0 -119.8257,34.4359,0 -119.8257,34.4209,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100027</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8857,34.4509,0 -119.8707,34.4509,0 -119.8707,34.4659,0 -119.8857,34.4659,0 -119.8857,34.4509,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<n>100038</n>
+<description>500-750 Kids</description>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-119.8707,34.4059,0 -119.8557,34.4059,0 -119.8557,34.4209,0 -119.8707,34.4209,0 -119.8707,34.4059,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document>
+</kml>
