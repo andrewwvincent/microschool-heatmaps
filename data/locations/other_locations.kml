@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
+    <Style id="preferred">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="other">
       <IconStyle>
         <Icon>
@@ -329,10 +336,10 @@
     </Placemark>
 
     <Placemark>
-      <name>Asphalt Green at Battery Park City</name>
+      <name>Asphalt Green - Battery Park City</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
-        <h3>Asphalt Green at Battery Park City</h3>
+        <h3>Asphalt Green - Battery Park City</h3>
         <p><strong>Address:</strong> 212 N End Ave New York, NY 10282</p>
         <p><strong>Region:</strong> New York</p>
         <p><strong>Phone:</strong> (212) 298-2900</p>
@@ -345,10 +352,10 @@
     </Placemark>
 
     <Placemark>
-      <name>Asphalt Green at Upper East Side campus</name>
+      <name>Asphalt Green - Upper East Side campus</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
-        <h3>Asphalt Green at Upper East Side campus</h3>
+        <h3>Asphalt Green - Upper East Side campus</h3>
         <p><strong>Address:</strong> 555 E 90th St, New York, NY 10128</p>
         <p><strong>Region:</strong> New York</p>
         <p><strong>Phone:</strong> 12123698890</p>
@@ -377,10 +384,10 @@
     </Placemark>
 
     <Placemark>
-      <name>Globall Sports Centers at Brooklyn</name>
+      <name>Globall Sports Centers - Brooklyn</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
-        <h3>Globall Sports Centers at Brooklyn</h3>
+        <h3>Globall Sports Centers - Brooklyn</h3>
         <p><strong>Address:</strong> 1561 Bedford Ave, Brooklyn, NY 11225</p>
         <p><strong>Region:</strong> Brooklyn</p>
         <p><strong>Phone:</strong> 19297772672</p>
@@ -544,7 +551,7 @@
         <p><strong>Address:</strong> 4600 W Park Blvd, Plano, TX 75093</p>
         <p><strong>Region:</strong> Plano</p>
         <p><strong>Phone:</strong> 14698954258</p>
-        <p><strong>Website:</strong> <a href="https://planoathleticclub.com/?utm_source=localgbp&utm_medium=organic&utm_campaign=gmb" target="_blank">Visit Website</a></p>
+        <p><strong>Website:</strong> <a href="https://planoathleticclub.com/?utm_source=localgbpandutm_medium=organic&utm_campaign=gmb" target="_blank">Visit Website</a></p>
         <p><strong>Type:</strong> Other Target</p>
       ]]></description>
       <Point>
@@ -617,10 +624,10 @@
     </Placemark>
 
     <Placemark>
-      <name>Salt Lake Tennis and Health Club</name>
+      <name>Salt Lake Tennis an Health Club</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
-        <h3>Salt Lake Tennis and Health Club</h3>
+        <h3>Salt Lake Tennis an Health Club</h3>
         <p><strong>Address:</strong> 2471 S 1700 E, Salt Lake City, UT 84106</p>
         <p><strong>Region:</strong> Salt Lake City</p>
         <p><strong>Phone:</strong> 18014873206</p>
@@ -665,10 +672,10 @@
     </Placemark>
 
     <Placemark>
-      <name>Arena Sports at SODO</name>
+      <name>Arena Sports - SODO</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
-        <h3>Arena Sports at SODO</h3>
+        <h3>Arena Sports - SODO</h3>
         <p><strong>Address:</strong> 4636 E Marginal Way S Ste 101 Seattle, WA 98134</p>
         <p><strong>Region:</strong> Seattle</p>
         <p><strong>Phone:</strong> (206) 762-8606</p>
@@ -1273,10 +1280,10 @@
     </Placemark>
 
     <Placemark>
-      <name>Villa Sport at Cypress</name>
+      <name>Villa Sport - Cypress</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
-        <h3>Villa Sport at Cypress</h3>
+        <h3>Villa Sport - Cypress</h3>
         <p><strong>Address:</strong> 12951 Barker Cypress Rd, Cypress, TX 77429</p>
         <p><strong>Region:</strong> Houston</p>
         <p><strong>Phone:</strong> 13468185114</p>
@@ -1337,10 +1344,10 @@
     </Placemark>
 
     <Placemark>
-      <name>Villa Sport at Katy</name>
+      <name>Villa Sport - Katy</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
-        <h3>Villa Sport at Katy</h3>
+        <h3>Villa Sport - Katy</h3>
         <p><strong>Address:</strong> 9930 Gaston Rd, Katy, TX 77494</p>
         <p><strong>Region:</strong> Houston</p>
         <p><strong>Phone:</strong> 13463222468</p>
@@ -1349,6 +1356,86 @@
       ]]></description>
       <Point>
         <coordinates>-95.81173,29.737707</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Greene Complex for Sports and Recreation</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Greene Complex for Sports and Recreation</h3>
+        <p><strong>Address:</strong> 1100 S Dixie Hwy, West Palm Beach, FL 33403</p>
+        <p><strong>Region:</strong> West Palm Beach</p>
+        <p><strong>Phone:</strong> 15618032334</p>
+        <p><strong>Website:</strong> <a href="https://www.pba.edu/campus-life/recreation/greene-athletic-campus.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.053359,26.703481</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Life Time - Downtown Palm Beach Gardens</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time - Downtown Palm Beach Gardens</h3>
+        <p><strong>Address:</strong> 11825 Lake Victoria Gardens Ave, Palm Beach Gardens, FL 33410</p>
+        <p><strong>Region:</strong> West Palm Beach</p>
+        <p><strong>Phone:</strong> 15613522700</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/fl/palm-beach-gardens?utm_source=google&utm_medium=local&utm_campaign=google-local-club" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.0948,26.85013</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Armory Art Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Armory Art Center</h3>
+        <p><strong>Address:</strong> 811 Park Pl, West Palm Beach, FL 33401</p>
+        <p><strong>Region:</strong> West Palm Beach</p>
+        <p><strong>Phone:</strong> 15618321776</p>
+        <p><strong>Website:</strong> <a href="https://armoryart.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.061148,26.698403</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Jupiter Academy of Music</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Jupiter Academy of Music</h3>
+        <p><strong>Address:</strong> 500 Commerce Way W 7 & 9, Jupiter, FL 33458</p>
+        <p><strong>Region:</strong> West Palm Beach</p>
+        <p><strong>Phone:</strong> 15617476878</p>
+        <p><strong>Website:</strong> <a href="http://jupiteracademyofmusic.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.121964,26.929837</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Cox Science Center and Aquarium</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Cox Science Center and Aquarium</h3>
+        <p><strong>Address:</strong> 4801 Dreher Trail N, West Palm Beach, FL 33405</p>
+        <p><strong>Region:</strong> West Palm Beach</p>
+        <p><strong>Phone:</strong> 15618321988</p>
+        <p><strong>Website:</strong> <a href="https://www.coxsciencecenter.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.069581,26.669411</coordinates>
       </Point>
     </Placemark>
   </Document>

@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <Style id="preferred_location">
+    <Style id="preferred">
       <IconStyle>
         <Icon>
           <href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="other">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Placemark>
       <name>Life Time Greenway</name>
-      <styleUrl>#preferred_location</styleUrl>
+      <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
         <h3>Life Time Greenway</h3>
         <p><strong>Address:</strong> 1 Healthy Way, Houston, TX 77046</p>
@@ -26,7 +33,7 @@
 
     <Placemark>
       <name>Lake Nona Performance Club</name>
-      <styleUrl>#preferred_location</styleUrl>
+      <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
         <h3>Lake Nona Performance Club</h3>
         <p><strong>Address:</strong> 6775 Chopra Ter, Orlando, FL 32827</p>
@@ -42,7 +49,7 @@
 
     <Placemark>
       <name>Dr. P. Phillips YMCA Family Center</name>
-      <styleUrl>#preferred_location</styleUrl>
+      <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
         <h3>Dr. P. Phillips YMCA Family Center</h3>
         <p><strong>Address:</strong> 7000 Dr Phillips Blvd, Orlando, FL 32819</p>
@@ -58,7 +65,7 @@
 
     <Placemark>
       <name>The Club at Cheval</name>
-      <styleUrl>#preferred_location</styleUrl>
+      <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
         <h3>The Club at Cheval</h3>
         <p><strong>Address:</strong> 4312 Cheval Blvd, Lutz, FL 33558</p>
@@ -74,7 +81,7 @@
 
     <Placemark>
       <name>South Tampa Family YMCA</name>
-      <styleUrl>#preferred_location</styleUrl>
+      <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
         <h3>South Tampa Family YMCA</h3>
         <p><strong>Address:</strong> ​4411 S Himes Ave, Tampa, FL 33611</p>
@@ -90,10 +97,10 @@
 
     <Placemark>
       <name>The Den Sports Facility</name>
-      <styleUrl>#preferred_location</styleUrl>
+      <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
         <h3>The Den Sports Facility</h3>
-        <p><strong>Address:</strong> 17120 House & Hahl Rd, Cypress, TX 77433</p>
+        <p><strong>Address:</strong> 17120 House an Hahl Rd, Cypress, TX 77433</p>
         <p><strong>Region:</strong> Houston</p>
         <p><strong>Phone:</strong> 18322638408</p>
         <p><strong>Website:</strong> <a href="http://thedensports.com/" target="_blank">Visit Website</a></p>
@@ -106,7 +113,7 @@
 
     <Placemark>
       <name>Crossover Athletics, LLC</name>
-      <styleUrl>#preferred_location</styleUrl>
+      <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
         <h3>Crossover Athletics, LLC</h3>
         <p><strong>Address:</strong> 815 Summer Park Dr, Stafford, TX 77477</p>
@@ -122,7 +129,7 @@
 
     <Placemark>
       <name>Campo Family YMCA</name>
-      <styleUrl>#preferred_location</styleUrl>
+      <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
         <h3>Campo Family YMCA</h3>
         <p><strong>Address:</strong> 3414 Culbreath Rd, Valrico, FL 33596</p>
