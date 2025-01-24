@@ -14,133 +14,208 @@
           <href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
         </Icon>
       </IconStyle>
-    </Style>
-    <Placemark>
-      <name>Life Time Greenway</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Life Time Greenway</h3>
-        <p><strong>Address:</strong> 1 Healthy Way, Houston, TX 77046</p>
-        <p><strong>Region:</strong> Houston</p>
-        <p><strong>Phone:</strong> 12819167300</p>
-        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/greenway.html" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Location</p>
-      ]]></description>
-      <Point>
-        <coordinates>-95.435,29.7313</coordinates>
-      </Point>
-    </Placemark>
+    </Style><ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>Life Time Greenway</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;Life Time Greenway&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 1 Healthy Way, Houston, TX 77046&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Houston&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 12819167300&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.lifetime.life/locations/tx/greenway.html" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-95.435,29.7313</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
 
-    <Placemark>
-      <name>Lake Nona Performance Club</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Lake Nona Performance Club</h3>
-        <p><strong>Address:</strong> 6775 Chopra Ter, Orlando, FL 32827</p>
-        <p><strong>Region:</strong> Orlando</p>
-        <p><strong>Phone:</strong> 14072165672</p>
-        <p><strong>Website:</strong> <a href="https://www.lakenonaperformanceclub.com/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Suburb Location</p>
-      ]]></description>
-      <Point>
-        <coordinates>-81.281563,28.371333</coordinates>
-      </Point>
-    </Placemark>
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>Lake Nona Performance Club</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;Lake Nona Performance Club&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 6775 Chopra Ter, Orlando, FL 32827&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Orlando&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 14072165672&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.lakenonaperformanceclub.com/" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Suburb Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-81.281563,28.371333</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
 
-    <Placemark>
-      <name>Dr. P. Phillips YMCA Family Center</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Dr. P. Phillips YMCA Family Center</h3>
-        <p><strong>Address:</strong> 7000 Dr Phillips Blvd, Orlando, FL 32819</p>
-        <p><strong>Region:</strong> Orlando</p>
-        <p><strong>Phone:</strong> 14073519417</p>
-        <p><strong>Website:</strong> <a href="https://ymcacf.org/locations/drphillips/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Suburb Location</p>
-      ]]></description>
-      <Point>
-        <coordinates>-81.492533,28.46018</coordinates>
-      </Point>
-    </Placemark>
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>Dr. P. Phillips YMCA Family Center</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;Dr. P. Phillips YMCA Family Center&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 7000 Dr Phillips Blvd, Orlando, FL 32819&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Orlando&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 14073519417&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://ymcacf.org/locations/drphillips/" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Suburb Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-81.492533,28.46018</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
 
-    <Placemark>
-      <name>The Club at Cheval</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>The Club at Cheval</h3>
-        <p><strong>Address:</strong> 4312 Cheval Blvd, Lutz, FL 33558</p>
-        <p><strong>Region:</strong> Tampa</p>
-        <p><strong>Phone:</strong> 813-279-5122</p>
-        <p><strong>Website:</strong> <a href="https://playcheval.com/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Suburb Location</p>
-      ]]></description>
-      <Point>
-        <coordinates>-82.50266,28.14367</coordinates>
-      </Point>
-    </Placemark>
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>The Club at Cheval</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;The Club at Cheval&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 4312 Cheval Blvd, Lutz, FL 33558&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Tampa&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 813-279-5122&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://playcheval.com/" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Suburb Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-82.50266,28.14367</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
 
-    <Placemark>
-      <name>South Tampa Family YMCA</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>South Tampa Family YMCA</h3>
-        <p><strong>Address:</strong> ​4411 S Himes Ave, Tampa, FL 33611</p>
-        <p><strong>Region:</strong> Tampa</p>
-        <p><strong>Phone:</strong> 18138390210</p>
-        <p><strong>Website:</strong> <a href="http://tampaymca.org/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Location</p>
-      ]]></description>
-      <Point>
-        <coordinates>-82.50262,27.90184</coordinates>
-      </Point>
-    </Placemark>
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>South Tampa Family YMCA</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;South Tampa Family YMCA&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; ​4411 S Himes Ave, Tampa, FL 33611&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Tampa&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 18138390210&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="http://tampaymca.org/" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-82.50262,27.90184</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
 
-    <Placemark>
-      <name>The Den Sports Facility</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>The Den Sports Facility</h3>
-        <p><strong>Address:</strong> 17120 House an Hahl Rd, Cypress, TX 77433</p>
-        <p><strong>Region:</strong> Houston</p>
-        <p><strong>Phone:</strong> 18322638408</p>
-        <p><strong>Website:</strong> <a href="http://thedensports.com/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Suburb Location</p>
-      ]]></description>
-      <Point>
-        <coordinates>-95.710772,29.959999</coordinates>
-      </Point>
-    </Placemark>
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>The Den Sports Facility</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;The Den Sports Facility&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 17120 House an Hahl Rd, Cypress, TX 77433&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Houston&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 18322638408&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="http://thedensports.com/" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Suburb Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-95.710772,29.959999</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
 
-    <Placemark>
-      <name>Crossover Athletics, LLC</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Crossover Athletics, LLC</h3>
-        <p><strong>Address:</strong> 815 Summer Park Dr, Stafford, TX 77477</p>
-        <p><strong>Region:</strong> Houston</p>
-        <p><strong>Phone:</strong> 18325396188</p>
-        <p><strong>Website:</strong> <a href="http://www.crossoverathletics.net/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Suburb Location</p>
-      ]]></description>
-      <Point>
-        <coordinates>-95.569703,29.606875</coordinates>
-      </Point>
-    </Placemark>
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>Villa Sport - Katy</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;Villa Sport - Katy&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 9930 Gaston Rd, Katy, TX 77494&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Houston&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 13463222468&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.villasport.com/cinco-ranch/" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Suburb Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-95.81173,29.737707</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
 
-    <Placemark>
-      <name>Campo Family YMCA</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>Campo Family YMCA</h3>
-        <p><strong>Address:</strong> 3414 Culbreath Rd, Valrico, FL 33596</p>
-        <p><strong>Region:</strong> Tampa</p>
-        <p><strong>Phone:</strong> 18136841371</p>
-        <p><strong>Website:</strong> <a href="https://www.tampaymca.org/locations/campo-family-ymca" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Suburb Location</p>
-      ]]></description>
-      <Point>
-        <coordinates>-82.247796,27.892706</coordinates>
-      </Point>
-    </Placemark>
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>Crossover Athletics, LLC</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;Crossover Athletics, LLC&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 815 Summer Park Dr, Stafford, TX 77477&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Houston&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 18325396188&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="http://www.crossoverathletics.net/" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Suburb Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-95.569703,29.606875</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
+
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>Campo Family YMCA</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;Campo Family YMCA&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 3414 Culbreath Rd, Valrico, FL 33596&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Tampa&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 18136841371&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.tampaymca.org/locations/campo-family-ymca" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Suburb Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-82.247796,27.892706</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
+
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>Palm Beach Atlantic University - Greene Complex for Sports and Recreation</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;Palm Beach Atlantic University - Greene Complex for Sports and Recreation&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 1100 S Dixie Hwy, West Palm Beach, FL 33403&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; West Palm Beach&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 15618032334&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.pba.edu/campus-life/recreation/greene-athletic-campus.html" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-80.053359,26.703481</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
+
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>Life Time - Downtown Palm Beach Gardens</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;Life Time - Downtown Palm Beach Gardens&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 11825 Lake Victoria Gardens Ave, Palm Beach Gardens, FL 33410&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; West Palm Beach&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 15613522700&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.lifetime.life/locations/fl/palm-beach-gardens?utm_source=google&amp;utm_medium=local&amp;utm_campaign=google-local-club" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Suburb Location&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-80.0948,26.85013</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
+
+    
+<ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+      <ns0:name>Aspen Red Brick Recreation Center</ns0:name>
+      <ns0:styleUrl>#preferred</ns0:styleUrl>
+      <ns0:description>
+        &lt;h3&gt;Aspen Red Brick Recreation Center&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; 110 E Hallam St # 135, Aspen, CO 81611&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Aspen&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 19709205140&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="http://www.aspenrecreation.com/red-brick-recreation-center" target="_blank"&gt;Visit Website&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Preferred Target&lt;/p&gt;
+      </ns0:description>
+      <ns0:Point>
+        <ns0:coordinates>-106.82109,39.193181</ns0:coordinates>
+      </ns0:Point>
+    </ns0:Placemark>
+  
   </Document>
 </kml>
