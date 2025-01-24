@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="preferred_location">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Life Time Greenway</name>
+      <styleUrl>#preferred_location</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Greenway</h3>
+        <p><strong>Address:</strong> 1 Healthy Way, Houston, TX 77046</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 12819167300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/greenway.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.435,29.7313</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Lake Nona Performance Club</name>
+      <styleUrl>#preferred_location</styleUrl>
+      <description><![CDATA[
+        <h3>Lake Nona Performance Club</h3>
+        <p><strong>Address:</strong> 6775 Chopra Ter, Orlando, FL 32827</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14072165672</p>
+        <p><strong>Website:</strong> <a href="https://www.lakenonaperformanceclub.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Suburb Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.281563,28.371333</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Dr. P. Phillips YMCA Family Center</name>
+      <styleUrl>#preferred_location</styleUrl>
+      <description><![CDATA[
+        <h3>Dr. P. Phillips YMCA Family Center</h3>
+        <p><strong>Address:</strong> 7000 Dr Phillips Blvd, Orlando, FL 32819</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14073519417</p>
+        <p><strong>Website:</strong> <a href="https://ymcacf.org/locations/drphillips/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Suburb Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.492533,28.46018</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The Club at Cheval</name>
+      <styleUrl>#preferred_location</styleUrl>
+      <description><![CDATA[
+        <h3>The Club at Cheval</h3>
+        <p><strong>Address:</strong> 4312 Cheval Blvd, Lutz, FL 33558</p>
+        <p><strong>Region:</strong> Tampa</p>
+        <p><strong>Phone:</strong> 813-279-5122</p>
+        <p><strong>Website:</strong> <a href="https://playcheval.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Suburb Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.50266,28.14367</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>South Tampa Family YMCA</name>
+      <styleUrl>#preferred_location</styleUrl>
+      <description><![CDATA[
+        <h3>South Tampa Family YMCA</h3>
+        <p><strong>Address:</strong> ​4411 S Himes Ave, Tampa, FL 33611</p>
+        <p><strong>Region:</strong> Tampa</p>
+        <p><strong>Phone:</strong> 18138390210</p>
+        <p><strong>Website:</strong> <a href="http://tampaymca.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.50262,27.90184</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The Den Sports Facility</name>
+      <styleUrl>#preferred_location</styleUrl>
+      <description><![CDATA[
+        <h3>The Den Sports Facility</h3>
+        <p><strong>Address:</strong> 17120 House & Hahl Rd, Cypress, TX 77433</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 18322638408</p>
+        <p><strong>Website:</strong> <a href="http://thedensports.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Suburb Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.710772,29.959999</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Crossover Athletics, LLC</name>
+      <styleUrl>#preferred_location</styleUrl>
+      <description><![CDATA[
+        <h3>Crossover Athletics, LLC</h3>
+        <p><strong>Address:</strong> 815 Summer Park Dr, Stafford, TX 77477</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 18325396188</p>
+        <p><strong>Website:</strong> <a href="http://www.crossoverathletics.net/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Suburb Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.569703,29.606875</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Campo Family YMCA</name>
+      <styleUrl>#preferred_location</styleUrl>
+      <description><![CDATA[
+        <h3>Campo Family YMCA</h3>
+        <p><strong>Address:</strong> 3414 Culbreath Rd, Valrico, FL 33596</p>
+        <p><strong>Region:</strong> Tampa</p>
+        <p><strong>Phone:</strong> 18136841371</p>
+        <p><strong>Website:</strong> <a href="https://www.tampaymca.org/locations/campo-family-ymca" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Suburb Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.247796,27.892706</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

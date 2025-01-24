@@ -4,6 +4,11 @@ let currentCity = null;
 let geocoder;
 let visibleCategories = [];
 
+// Global variables for locations
+let allLocations = null;
+let locations = { preferred: [], other: [] };
+let locationMarkers = [];
+
 // Initialize the map
 function initializeMap() {
     mapboxgl.accessToken = config.mapboxToken;
@@ -33,6 +38,9 @@ function initializeMap() {
     map.on('load', () => {
         loadCityList();
         setupEventListeners();
+        loadAllLocations().then(() => {
+            filterLocationsByBounds();
+        });
     });
     
     // Add popup on click
@@ -360,71 +368,56 @@ function coordsAreEqual(coords1, coords2) {
 async function loadKMLFile(kmlFile, income) {
     try {
         const response = await fetch(kmlFile);
-        if (!response.ok) {
-            console.error(`Failed to load ${kmlFile}: ${response.status} ${response.statusText}`);
-            return [];
-        }
-        const text = await response.text();
+        const kmlText = await response.text();
+        
+        // Parse KML file
         const parser = new DOMParser();
-        const kml = parser.parseFromString(text, 'text/xml');
-        
-        if (!kml.querySelector('Placemark')) {
-            console.error(`No Placemarks found in ${kmlFile}`);
+        const doc = parser.parseFromString(kmlText, 'text/xml');
+
+        // Check for parsing errors
+        const parseError = doc.querySelector('parsererror');
+        if (parseError) {
+            console.error('Error parsing KML:', parseError.textContent);
             return [];
         }
+
+        // Get all Placemark elements
+        const placemarks = Array.from(doc.getElementsByTagName('Placemark'));
         
-        // Convert KML to GeoJSON
-        const features = Array.from(kml.querySelectorAll('Placemark')).map(placemark => {
-            try {
-                const coordsElement = placemark.querySelector('coordinates');
-                if (!coordsElement || !coordsElement.textContent) {
-                    console.error('Missing coordinates in Placemark');
-                    return null;
-                }
+        // Parse each placemark into a GeoJSON feature
+        return placemarks.map(placemark => {
+            const coordinates = placemark.getElementsByTagName('coordinates')[0]?.textContent?.trim();
+            if (!coordinates) return null;
 
-                const coordinates = coordsElement.textContent
-                    .trim()
-                    .split(' ')
-                    .filter(coord => coord.length > 0)
-                    .map(coord => coord.split(',').map(Number));
-                
-                const descElement = placemark.querySelector('description');
-                if (!descElement || !descElement.textContent) {
-                    console.error('Missing description in Placemark');
-                    return null;
-                }
+            // Split coordinates into points and convert to array of [lon, lat] pairs
+            const points = coordinates.split(' ')
+                .map(coord => coord.trim())
+                .filter(coord => coord)
+                .map(coord => {
+                    const [lon, lat] = coord.split(',').map(parseFloat);
+                    return [lon, lat];
+                });
 
-                // Extract and normalize category
-                let category = descElement.textContent.trim();
-                
-                // Ensure category matches our expected format
-                if (!category.endsWith('Kids')) {
-                    category += ' Kids';
+            if (!points.length) return null;
+
+            // Get category from description
+            const description = placemark.getElementsByTagName('description')[0]?.textContent?.trim() || '';
+            const category = description.split(':')[0]?.trim() || 'Unknown';
+
+            return {
+                type: 'Feature',
+                geometry: {
+                    type: 'Polygon',
+                    coordinates: [points]
+                },
+                properties: {
+                    category: category,
+                    income: income
                 }
-                
-                return {
-                    type: 'Feature',
-                    geometry: {
-                        type: 'Polygon',
-                        coordinates: [coordinates]
-                    },
-                    properties: {
-                        category: category,
-                        income: income
-                    }
-                };
-            } catch (err) {
-                console.error('Error processing Placemark:', err);
-                return null;
-            }
+            };
         }).filter(feature => feature !== null);
-        
-        console.log(`Loaded ${features.length} features for ${income}. Sample categories:`, 
-            features.slice(0, 3).map(f => f.properties.category));
-        
-        return features;
     } catch (error) {
-        console.error(`Error loading KML file ${kmlFile}:`, error);
+        console.error('Error loading KML file:', error);
         return [];
     }
 }
@@ -435,6 +428,19 @@ function setupEventListeners() {
     document.getElementById('citySelect').addEventListener('change', (e) => {
         loadCity(e.target.value);
     });
+
+    // Set up category checkbox event listeners
+    document.querySelectorAll('.category-checkbox').forEach(checkbox => {
+        checkbox.addEventListener('change', updateVisibleCategories);
+    });
+
+    // Set up parent checkbox event listeners
+    document.getElementById('income250k-all').addEventListener('change', handleParentCheckboxChange);
+    document.getElementById('income500k-all').addEventListener('change', handleParentCheckboxChange);
+    
+    // Set up location filter event listeners
+    document.getElementById('preferred-locations').addEventListener('change', updateLocationMarkers);
+    document.getElementById('other-locations').addEventListener('change', updateLocationMarkers);
 }
 
 // Function to handle parent checkbox changes
@@ -595,4 +601,226 @@ function hexToRgba(hex, alpha) {
     const g = parseInt(hex.slice(3, 5), 16);
     const b = parseInt(hex.slice(5, 7), 16);
     return `rgba(${r}, ${g}, ${b}, ${alpha})`;
+}
+
+// Load locations from KML files
+async function loadAllLocations() {
+    try {
+        console.log('Loading KML files...');
+        const [preferredKml, otherKml] = await Promise.all([
+            fetch('data/locations/preferred_locations.kml').then(r => r.text()),
+            fetch('data/locations/other_locations.kml').then(r => r.text())
+        ]);
+        console.log('KML files loaded');
+
+        console.log('Raw KML content length:', {
+            preferred: preferredKml.length,
+            other: otherKml.length
+        });
+
+        console.log('Parsing errors:', {
+            preferred: preferredKml.includes('<parsererror>'),
+            other: otherKml.includes('<parsererror>')
+        });
+
+        // Parse KML files
+        const parser = new DOMParser();
+        const preferredDoc = parser.parseFromString(preferredKml, 'text/xml');
+        const otherDoc = parser.parseFromString(otherKml, 'text/xml');
+
+        console.log('Parsing errors:', {
+            preferred: preferredDoc.querySelector('parsererror'),
+            other: otherDoc.querySelector('parsererror')
+        });
+
+        // Check for XML parsing errors
+        const preferredError = preferredDoc.querySelector('parsererror');
+        const otherError = otherDoc.querySelector('parsererror');
+
+        if (preferredError) {
+            console.error('Error parsing preferred locations:', preferredError.textContent);
+        }
+        if (otherError) {
+            console.error('Error parsing other locations:', otherError.textContent);
+        }
+
+        // Log document structure
+        console.log('Document structure:', {
+            preferred: {
+                placemarks: preferredDoc.getElementsByTagName('Placemark').length,
+                names: preferredDoc.getElementsByTagName('name').length,
+                nTags: preferredDoc.getElementsByTagName('n').length,
+                points: preferredDoc.getElementsByTagName('Point').length,
+                descriptions: preferredDoc.getElementsByTagName('description').length
+            },
+            other: {
+                placemarks: otherDoc.getElementsByTagName('Placemark').length,
+                names: otherDoc.getElementsByTagName('name').length,
+                nTags: otherDoc.getElementsByTagName('n').length,
+                points: otherDoc.getElementsByTagName('Point').length,
+                descriptions: otherDoc.getElementsByTagName('description').length
+            }
+        });
+
+        // Helper function to parse placemarks
+        function parsePlacemarks(doc, type) {
+            const placemarks = Array.from(doc.getElementsByTagName('Placemark'));
+            console.log(`Found ${placemarks.length} placemarks in ${type} file`);
+            
+            return placemarks.map(placemark => {
+                try {
+                    // Get name from name or n tag
+                    let name;
+                    const nameElem = placemark.getElementsByTagName('name')[0] || placemark.getElementsByTagName('n')[0];
+                    name = nameElem?.textContent?.trim();
+                    
+                    // Get coordinates from Point tag
+                    const point = placemark.getElementsByTagName('Point')[0];
+                    const coords = point?.getElementsByTagName('coordinates')[0]?.textContent?.trim().split(',');
+                    
+                    // Get description, handling CDATA sections
+                    let description = '';
+                    const descElem = placemark.getElementsByTagName('description')[0];
+                    if (descElem) {
+                        description = descElem.textContent?.trim() || '';
+                        // Clean up CDATA if present
+                        description = description.replace(/<!\\[CDATA\\[|\\]\\]>/g, '').trim();
+                    }
+
+                    if (!name || !coords || coords.length < 2 || !description) {
+                        console.log(`Skipping placemark in ${type} file - missing data:`, {
+                            name: name || 'MISSING',
+                            hasCoords: !!coords,
+                            coordsLength: coords?.length,
+                            hasDescription: !!description
+                        });
+                        return null;
+                    }
+
+                    // Parse description HTML
+                    const tempDiv = document.createElement('div');
+                    tempDiv.innerHTML = description;
+                    
+                    const addressElem = tempDiv.querySelector('p:nth-child(2)');
+                    const regionElem = tempDiv.querySelector('p:nth-child(3)');
+                    const phoneElem = tempDiv.querySelector('p:nth-child(4)');
+                    const websiteElem = tempDiv.querySelector('p:nth-child(5) a');
+
+                    return {
+                        Organization: name,
+                        Address: addressElem?.textContent.replace(/Address:|\s+/g, ' ').trim() || '',
+                        Region: regionElem?.textContent.replace(/Region:|\s+/g, ' ').trim() || '',
+                        Phone: phoneElem?.textContent.replace(/Phone:|\s+/g, ' ').trim() || '',
+                        Website: websiteElem?.href || '',
+                        'Location Rank': type === 'preferred' ? 'Preferred Location' : 'Other Target',
+                        longitude: parseFloat(coords[0]),
+                        latitude: parseFloat(coords[1])
+                    };
+                } catch (error) {
+                    console.error('Error parsing placemark:', error);
+                    return null;
+                }
+            }).filter(location => location !== null);
+        }
+
+        // Parse locations from both KML files
+        locations.preferred = parsePlacemarks(preferredDoc, 'preferred');
+        locations.other = parsePlacemarks(otherDoc, 'other');
+        
+        allLocations = [...locations.preferred, ...locations.other];
+        console.log('Total locations loaded:', allLocations.length);
+        console.log('Preferred locations:', locations.preferred.length);
+        console.log('Other locations:', locations.other.length);
+        return allLocations;
+    } catch (error) {
+        console.error('Error loading KML files:', error);
+        return [];
+    }
+}
+
+// Filter locations based on map bounds
+function filterLocationsByBounds() {
+    console.log('Filtering locations...');
+    console.log('All locations:', allLocations?.length);
+    
+    // Filter preferred locations
+    locations.preferred = allLocations.filter(location => 
+        location && location['Location Rank'] === 'Preferred Location'
+    );
+    
+    // Filter other locations
+    locations.other = allLocations.filter(location => 
+        location && location['Location Rank'] === 'Other Target'
+    );
+    
+    console.log('After filtering:');
+    console.log('Preferred locations:', locations.preferred.length);
+    console.log('Other locations:', locations.other.length);
+    
+    // Update markers
+    updateLocationMarkers();
+}
+
+// Update location markers on the map
+function updateLocationMarkers() {
+    // Clear existing markers
+    locationMarkers.forEach(marker => marker.remove());
+    locationMarkers = [];
+
+    // Get checkbox states
+    const preferredChecked = document.getElementById('preferred-locations').checked;
+    const otherChecked = document.getElementById('other-locations').checked;
+
+    console.log('Preferred checked:', preferredChecked);
+    console.log('Other checked:', otherChecked);
+    console.log('Preferred locations:', locations.preferred?.length);
+    console.log('Other locations:', locations.other?.length);
+
+    // Create markers for visible locations
+    if (locations.preferred) {
+        locations.preferred.forEach(location => {
+            const marker = createLocationMarker(location, 'preferred');
+            if (preferredChecked) {
+                marker.addTo(map);
+            }
+            locationMarkers.push(marker);
+        });
+    }
+
+    if (locations.other) {
+        locations.other.forEach(location => {
+            const marker = createLocationMarker(location, 'other');
+            if (otherChecked) {
+                marker.addTo(map);
+            }
+            locationMarkers.push(marker);
+        });
+    }
+    
+    console.log('Total markers created:', locationMarkers.length);
+}
+
+// Create a location marker
+function createLocationMarker(location, type) {
+    const el = document.createElement('div');
+    el.className = `location-marker ${type}`;
+    
+    const marker = new mapboxgl.Marker(el)
+        .setLngLat([location.longitude, location.latitude]);
+    
+    // Add popup
+    const popupContent = `
+        <h3>${location.Organization}</h3>
+        <p><strong>Address:</strong> ${location.Address}</p>
+        <p><strong>Region:</strong> ${location.Region}</p>
+        <p><strong>Phone:</strong> ${location.Phone}</p>
+        ${location.Website ? `<p><strong>Website:</strong> <a href="${location.Website}" target="_blank">Visit Website</a></p>` : ''}
+    `;
+    
+    const popup = new mapboxgl.Popup({ offset: 25 })
+        .setHTML(popupContent);
+        
+    marker.setPopup(popup);
+    
+    return marker;
 }

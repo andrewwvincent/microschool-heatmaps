@@ -231,3 +231,47 @@ h3 {
 .mapboxgl-ctrl-group {
     margin-right: 10px;
 }
+
+/* Location Markers */
+.location-marker {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid white;
+    box-shadow: 0 0 4px rgba(0,0,0,0.4);
+}
+
+.location-marker.preferred {
+    background-color: #4CAF50;
+}
+
+.location-marker.other {
+    background-color: #FFA500;
+}
+
+/* Location Filter Styles */
+.filter-section {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+}
+
+.filter-group {
+    margin: 10px 0;
+}
+
+.filter-group label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.filter-group input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+.category-label {
+    font-size: 14px;
+}

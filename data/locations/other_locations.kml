@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="other">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Ability360 Sports and Fitness Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Ability360 Sports and Fitness Center</h3>
+        <p><strong>Address:</strong> 5031 E Washington St, Phoenix, AZ 85034</p>
+        <p><strong>Region:</strong> Phoenix</p>
+        <p><strong>Phone:</strong> 16023864566</p>
+        <p><strong>Website:</strong> <a href="https://ability360.org/sports" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.973738,33.445299</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>American Sports Centers-Avondale</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>American Sports Centers-Avondale</h3>
+        <p><strong>Address:</strong> 755 N 114th Ave, Avondale, AZ 85323</p>
+        <p><strong>Region:</strong> Phoenix</p>
+        <p><strong>Phone:</strong> 16237925504</p>
+        <p><strong>Website:</strong> <a href="http://www.ascavondale.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-112.304438,33.45398</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Victorium</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Victorium</h3>
+        <p><strong>Address:</strong> 9219 E Hidden Spur Trail, Scottsdale, AZ 85255</p>
+        <p><strong>Region:</strong> Scottsdale</p>
+        <p><strong>Phone:</strong> 14802647089</p>
+        <p><strong>Website:</strong> <a href="http://www.victorium.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.883004,33.644079</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Momentous Sports Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Momentous Sports Center</h3>
+        <p><strong>Address:</strong> 14522 Myford Rd, Irvine, CA 92606</p>
+        <p><strong>Region:</strong> Irvine</p>
+        <p><strong>Phone:</strong> 17143897900</p>
+        <p><strong>Website:</strong> <a href="http://momentoussportscenter.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.802796,33.714219</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The Plex</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>The Plex</h3>
+        <p><strong>Address:</strong> 800 Embedded Way, San Jose, CA 95138</p>
+        <p><strong>Region:</strong> San Jose</p>
+        <p><strong>Phone:</strong> 14082251843</p>
+        <p><strong>Website:</strong> <a href="http://www.gotoplex.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-121.793526,37.265907</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Glendale Sports Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Glendale Sports Center</h3>
+        <p><strong>Address:</strong> 4500 E Kentucky Ave, Denver, CO 80246</p>
+        <p><strong>Region:</strong> Denver</p>
+        <p><strong>Phone:</strong> 13036394711</p>
+        <p><strong>Website:</strong> <a href="https://www.sportscenterglendale.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-104.934937,39.699811</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Genesis Health Clubs – Orlando Sportsplex</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Genesis Health Clubs – Orlando Sportsplex</h3>
+        <p><strong>Address:</strong> 8701 Maitland Summit Blvd, Orlando, FL 32810</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14079162442</p>
+        <p><strong>Website:</strong> <a href="https://www.genesishealthclubs.com/locations/orlando-sportsplex.html?utm_campaign=search&utm_medium=organic&utm_source=gbp" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.399759,28.635033</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Game Point Event Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Game Point Event Center</h3>
+        <p><strong>Address:</strong> 6700 Kingspointe Pkwy, Orlando, FL 32819</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14073518433</p>
+        <p><strong>Website:</strong> <a href="http://gamepointevents.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.438346,28.457272</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>VISA Athletic Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>VISA Athletic Center</h3>
+        <p><strong>Address:</strong> 700 S Victory Way, Orlando, FL 34747</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14079395277</p>
+        <p><strong>Website:</strong> <a href="https://www.espnwwos.com/complex/venues/visa-athletic-center/?CMP=OKC-276920_GM_WDW_recreation_athleticcenter_NA" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.559225,28.358064</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Shanna and Bryan Glazer Jewish Community Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Shanna and Bryan Glazer Jewish Community Center</h3>
+        <p><strong>Address:</strong> 522 N Howard Ave, Tampa, FL 33606</p>
+        <p><strong>Region:</strong> Tampa</p>
+        <p><strong>Phone:</strong> 18135755900</p>
+        <p><strong>Website:</strong> <a href="https://www.shannaandbryanglazerjcc.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.483959,27.949065</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Hi-Five Sports Zone At North Point Mall</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Hi-Five Sports Zone At North Point Mall</h3>
+        <p><strong>Address:</strong> 1000 North Point Cir Suite 1008, Alpharetta, GA 30022</p>
+        <p><strong>Region:</strong> Alpharetta</p>
+        <p><strong>Phone:</strong> 14704170194</p>
+        <p><strong>Website:</strong> <a href="https://www.hifivesportsclubs.com/locations/alpharetta/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.294431,34.0484</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Marcus Jewish Community Center of Atlanta</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Marcus Jewish Community Center of Atlanta</h3>
+        <p><strong>Address:</strong> 5342 Tilly Mill Rd, Atlanta, GA 30338</p>
+        <p><strong>Region:</strong> Atlanta</p>
+        <p><strong>Phone:</strong> 16788124000</p>
+        <p><strong>Website:</strong> <a href="https://www.atlantajcc.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.305591,33.947246</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Bradley Fieldhouse</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Bradley Fieldhouse</h3>
+        <p><strong>Address:</strong> 2500 W Bradley Pl B, Chicago, IL 60618</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Phone:</strong> 17739618889</p>
+        <p><strong>Website:</strong> <a href="https://www.bradleyfieldhouse.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.692185,41.950442</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Lakeshore Sport and Fitness</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Lakeshore Sport and Fitness</h3>
+        <p><strong>Address:</strong> 1320 W Fullerton Ave, Chicago, IL 60614</p>
+        <p><strong>Region:</strong> Lincoln Park</p>
+        <p><strong>Phone:</strong> 17733486377</p>
+        <p><strong>Website:</strong> <a href="https://www.lakeshoresf.com/lincoln-park/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.661437,41.926029</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>McFetridge Sports Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>McFetridge Sports Center</h3>
+        <p><strong>Address:</strong> 3843 N California Ave, Chicago, IL 60618</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Phone:</strong> 17734782609</p>
+        <p><strong>Website:</strong> <a href="https://www.mcfetridgesportscenter.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.697421,41.951598</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>TOCA Soccer and Sports Center Evanston</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>TOCA Soccer and Sports Center Evanston</h3>
+        <p><strong>Address:</strong> 2454 Oakton St, Evanston, IL 60202</p>
+        <p><strong>Region:</strong> Evanston</p>
+        <p><strong>Phone:</strong> 18478640995</p>
+        <p><strong>Website:</strong> <a href="https://www.quadindoorsports.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.707422,42.0252</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Minneapolis Sports Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Minneapolis Sports Center</h3>
+        <p><strong>Address:</strong> 2121 E Lake St, Minneapolis, MN 55407</p>
+        <p><strong>Region:</strong> Minneapolis</p>
+        <p><strong>Phone:</strong> 16122154321</p>
+        <p><strong>Website:</strong> <a href="https://www.ywcampls.org/msc" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.24165,44.94804</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Adrenaline Sports Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Adrenaline Sports Center</h3>
+        <p><strong>Address:</strong> 8310 147 Ln NW, Ramsey, MN 55303</p>
+        <p><strong>Region:</strong> Minneapolis</p>
+        <p><strong>Phone:</strong> 16122328535</p>
+        <p><strong>Website:</strong> <a href="https://adrenalinesc.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.478326,45.237908</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sportscenter Fitness and Athletic Club</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Sportscenter Fitness and Athletic Club</h3>
+        <p><strong>Address:</strong> 233 Country Club Dr NE, Concord, NC 28025</p>
+        <p><strong>Region:</strong> Charlotte</p>
+        <p><strong>Phone:</strong> 17047823000</p>
+        <p><strong>Website:</strong> <a href="https://sportscenternc.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.603957,35.446065</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Las Vegas Sportspark</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Las Vegas Sportspark</h3>
+        <p><strong>Address:</strong> 1400 N Rampart Blvd, Las Vegas, NV 89128</p>
+        <p><strong>Region:</strong> Las Vegas</p>
+        <p><strong>Phone:</strong> 17022333600</p>
+        <p><strong>Website:</strong> <a href="http://www.iloveindoorsoccer.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-115.284795,36.186439</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Asphalt Green at Battery Park City</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Asphalt Green at Battery Park City</h3>
+        <p><strong>Address:</strong> 212 N End Ave New York, NY 10282</p>
+        <p><strong>Region:</strong> New York</p>
+        <p><strong>Phone:</strong> (212) 298-2900</p>
+        <p><strong>Website:</strong> <a href="asphaltgreen.org" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.014816,40.71603</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Asphalt Green at Upper East Side campus</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Asphalt Green at Upper East Side campus</h3>
+        <p><strong>Address:</strong> 555 E 90th St, New York, NY 10128</p>
+        <p><strong>Region:</strong> New York</p>
+        <p><strong>Phone:</strong> 12123698890</p>
+        <p><strong>Website:</strong> <a href="http://www.asphaltgreen.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.943487,40.778151</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Fastbreak Sports</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Fastbreak Sports</h3>
+        <p><strong>Address:</strong> 1629 1st Ave., New York, NY 10028</p>
+        <p><strong>Region:</strong> New York</p>
+        <p><strong>Phone:</strong> 12127243278</p>
+        <p><strong>Website:</strong> <a href="https://fastbreakkids.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.95023,40.776101</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Globall Sports Centers at Brooklyn</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Globall Sports Centers at Brooklyn</h3>
+        <p><strong>Address:</strong> 1561 Bedford Ave, Brooklyn, NY 11225</p>
+        <p><strong>Region:</strong> Brooklyn</p>
+        <p><strong>Phone:</strong> 19297772672</p>
+        <p><strong>Website:</strong> <a href="http://globallsportscenters.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.955307,40.668753</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Major R. Owens Health and Wellness Community Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Major R. Owens Health and Wellness Community Center</h3>
+        <p><strong>Address:</strong> 1561 Bedford Ave, Brooklyn, NY 11225</p>
+        <p><strong>Region:</strong> Brooklyn</p>
+        <p><strong>Phone:</strong> 17189719202</p>
+        <p><strong>Website:</strong> <a href="https://www.majorowenscenter.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.955307,40.668753</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Marlene Meyerson JCC Manhattan</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Marlene Meyerson JCC Manhattan</h3>
+        <p><strong>Address:</strong> 334 Amsterdam Ave at, W 76th St, New York, NY 10023</p>
+        <p><strong>Region:</strong> New York</p>
+        <p><strong>Phone:</strong> 16465054444</p>
+        <p><strong>Website:</strong> <a href="https://mmjccm.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.985245,40.744633</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>St Andrew's Family Fitness Plus!</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>St Andrew's Family Fitness Plus!</h3>
+        <p><strong>Address:</strong> 1642 Sam Rittenberg Blvd, Charleston, SC 29407</p>
+        <p><strong>Region:</strong> Charleston</p>
+        <p><strong>Phone:</strong> 18437633850</p>
+        <p><strong>Website:</strong> <a href="http://www.standrewsfitness.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.011935,32.807147</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>APEC Fitness Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>APEC Fitness Center</h3>
+        <p><strong>Address:</strong> 2600 Alemeda St, Fort Worth, TX 76116</p>
+        <p><strong>Region:</strong> Fort Worth</p>
+        <p><strong>Phone:</strong> 817-367-7800</p>
+        <p><strong>Website:</strong> <a href="https://teamapec.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.485239,32.735355</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>CERA</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>CERA</h3>
+        <p><strong>Address:</strong> 3300 Bryant Irvin Rd., Fort Worth, TX 76109</p>
+        <p><strong>Region:</strong> Fort Worth</p>
+        <p><strong>Phone:</strong> (817) 732-7731</p>
+        <p><strong>Website:</strong> <a href="https://cera-fw.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.41349,32.70215</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Cooper Fitness Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Cooper Fitness Center</h3>
+        <p><strong>Address:</strong> 12100 Preston Road, Dallas, TX 75230</p>
+        <p><strong>Region:</strong> Dallas</p>
+        <p><strong>Phone:</strong> 972.233.4832</p>
+        <p><strong>Website:</strong> <a href="https://www.cooperaerobics.com/cooper-fitness-center" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.801154,32.91428</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>CUMC Sports and Rec Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>CUMC Sports and Rec Center</h3>
+        <p><strong>Address:</strong> 3101 Coit Rd, Plano, TX 75075</p>
+        <p><strong>Region:</strong> Plano</p>
+        <p><strong>Phone:</strong> 19725966073</p>
+        <p><strong>Website:</strong> <a href="https://cumc.com/adult-sports-fitness/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.771104,33.039801</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Evelyn Rubenstein JCC</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Evelyn Rubenstein JCC</h3>
+        <p><strong>Address:</strong> 5601 S Braeswood Houston, TX 77096</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> (713) 729-3200</p>
+        <p><strong>Website:</strong> <a href="erjcchouston.org" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.484099,29.673781</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Memorial Athletic Club and Aquatic Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Memorial Athletic Club and Aquatic Center</h3>
+        <p><strong>Address:</strong> 14690 Memorial Dr, Houston, TX 77079</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 281.558.6691</p>
+        <p><strong>Website:</strong> <a href="https://www.fitmac.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.608282,29.772135</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Plano Athletic Club</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Plano Athletic Club</h3>
+        <p><strong>Address:</strong> 4600 W Park Blvd, Plano, TX 75093</p>
+        <p><strong>Region:</strong> Plano</p>
+        <p><strong>Phone:</strong> 14698954258</p>
+        <p><strong>Website:</strong> <a href="https://planoathleticclub.com/?utm_source=localgbp&utm_medium=organic&utm_campaign=gmb" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.787545,33.026012</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Plano Sports Authority</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Plano Sports Authority</h3>
+        <p><strong>Address:</strong> 6500 Preston Meadow Dr, Plano, TX 75024</p>
+        <p><strong>Region:</strong> Plano</p>
+        <p><strong>Phone:</strong> 19722085437</p>
+        <p><strong>Website:</strong> <a href="https://www.psaplanosportsauthority.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.777344,33.06157</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The Downtown Club at The Met</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>The Downtown Club at The Met</h3>
+        <p><strong>Address:</strong> 340 W Dallas St Houston, TX 77002</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> (713) 652-0700</p>
+        <p><strong>Website:</strong> <a href="clubcorp.com" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.373762,29.75715</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>FieldhouseUSA Frisco</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>FieldhouseUSA Frisco</h3>
+        <p><strong>Address:</strong> 6155 Sports Village Rd, Frisco, TX 75033</p>
+        <p><strong>Region:</strong> Frisco</p>
+        <p><strong>Phone:</strong> 19726686207</p>
+        <p><strong>Website:</strong> <a href="https://frisco.fieldhouseusa.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.829992,33.161173</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Club V Facilities (North Salt Lake)</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Club V Facilities (North Salt Lake)</h3>
+        <p><strong>Address:</strong> 51 River Bend Way, North Salt Lake, UT 84054</p>
+        <p><strong>Region:</strong> Salt Lake City</p>
+        <p><strong>Phone:</strong> 13854155350</p>
+        <p><strong>Website:</strong> <a href="https://nsl.clubvfacilities.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.945651,40.84088</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Salt Lake Tennis and Health Club</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Salt Lake Tennis and Health Club</h3>
+        <p><strong>Address:</strong> 2471 S 1700 E, Salt Lake City, UT 84106</p>
+        <p><strong>Region:</strong> Salt Lake City</p>
+        <p><strong>Phone:</strong> 18014873206</p>
+        <p><strong>Website:</strong> <a href="https://saltlaketennisandhealth.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.840137,40.717588</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The St. James</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>The St. James</h3>
+        <p><strong>Address:</strong> 6805 Industrial Rd Springfield, VA 22151</p>
+        <p><strong>Region:</strong> Alexandria</p>
+        <p><strong>Phone:</strong> (703) 239-6870</p>
+        <p><strong>Website:</strong> <a href="thestjames.com" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.180248,38.797317</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Fairfax Sportsplex</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Fairfax Sportsplex</h3>
+        <p><strong>Address:</strong> 6800 Commercial Dr, Springfield, VA 22151</p>
+        <p><strong>Region:</strong> Alexandria</p>
+        <p><strong>Phone:</strong> 17037509521</p>
+        <p><strong>Website:</strong> <a href="http://www.fairfaxsportsplex.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.178813,38.801374</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Arena Sports at SODO</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Arena Sports at SODO</h3>
+        <p><strong>Address:</strong> 4636 E Marginal Way S Ste 101 Seattle, WA 98134</p>
+        <p><strong>Region:</strong> Seattle</p>
+        <p><strong>Phone:</strong> (206) 762-8606</p>
+        <p><strong>Website:</strong> <a href="arenasports.net" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-122.338729,47.56184</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Magnuson Athletic Club</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Magnuson Athletic Club</h3>
+        <p><strong>Address:</strong> 7751 63rd Ave NE Seattle, WA 98115</p>
+        <p><strong>Region:</strong> Seattle</p>
+        <p><strong>Phone:</strong> (206) 452-1500</p>
+        <p><strong>Website:</strong> <a href="macseattle.com" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-122.263277,47.687018</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Seattle Athletic Club</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Seattle Athletic Club</h3>
+        <p><strong>Address:</strong> 2020 Western Ave Seattle, WA 98121</p>
+        <p><strong>Region:</strong> Seattle</p>
+        <p><strong>Phone:</strong> (206) 443-1111</p>
+        <p><strong>Website:</strong> <a href="sacdt.com" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-122.343797,47.610801</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>USTA National Campus</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>USTA National Campus</h3>
+        <p><strong>Address:</strong> 10000 USTA Blvd, Orlando, FL 32827</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14076752500</p>
+        <p><strong>Website:</strong> <a href="https://www.ustanationalcampus.com/en/home.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.279159,28.400305</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The Well Activity Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>The Well Activity Center</h3>
+        <p><strong>Address:</strong> 110 Athletes Row, Apopka, FL 32703</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 13213708583</p>
+        <p><strong>Website:</strong> <a href="https://thewellactivitycenter.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.520914,28.67628</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sofive Lake Nona (XL Soccer World)</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Sofive Lake Nona (XL Soccer World)</h3>
+        <p><strong>Address:</strong> 12314 Suttner Ave, Orlando, FL 32827</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14078633101</p>
+        <p><strong>Website:</strong> <a href="https://www.xlnona.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.248563,28.385618</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>ClearOne Sports Centre</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>ClearOne Sports Centre</h3>
+        <p><strong>Address:</strong> 4141 John Young Pkwy, Orlando, FL 32804</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14077303596</p>
+        <p><strong>Website:</strong> <a href="http://www.clearonesports.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.415464,28.587453</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Exclusive Hoops Basketball Training Facility</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Exclusive Hoops Basketball Training Facility</h3>
+        <p><strong>Address:</strong> 5722 Young Pine Rd #120, Orlando, FL 32829</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14074349732</p>
+        <p><strong>Website:</strong> <a href="https://exclusivehoops.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.227246,28.481171</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The Skills Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>The Skills Center</h3>
+        <p><strong>Address:</strong> 5107 N 22nd St, Tampa, FL 33610</p>
+        <p><strong>Region:</strong> Tampa</p>
+        <p><strong>Phone:</strong> 18137031324</p>
+        <p><strong>Website:</strong> <a href="http://www.theskillscenter.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.43392,27.992815</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>PickUp USA Fitness Tampa</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>PickUp USA Fitness Tampa</h3>
+        <p><strong>Address:</strong> 9935 Race Track Rd, Tampa, FL 33626</p>
+        <p><strong>Region:</strong> Tampa</p>
+        <p><strong>Phone:</strong> 18138521282</p>
+        <p><strong>Website:</strong> <a href="https://pickupusafitness.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.647087,28.039776</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Swell Athletic Club</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Swell Athletic Club</h3>
+        <p><strong>Address:</strong> 5800 Cathedral Oaks Rd, Goleta, CA 93117</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 18059647762</p>
+        <p><strong>Website:</strong> <a href="http://coac.swellclubs.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.824488,34.45275</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Bob Gilbertson Central City Family YMCA</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Bob Gilbertson Central City Family YMCA</h3>
+        <p><strong>Address:</strong> 110 E Palm Ave, Tampa, FL 33602</p>
+        <p><strong>Region:</strong> Tampa</p>
+        <p><strong>Phone:</strong> 18132299622</p>
+        <p><strong>Website:</strong> <a href="http://www.tampaymca.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.459289,27.962262</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>New Tampa Family YMCA</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>New Tampa Family YMCA</h3>
+        <p><strong>Address:</strong> 16221 Compton Dr, Tampa, FL 33647</p>
+        <p><strong>Region:</strong> Tampa</p>
+        <p><strong>Phone:</strong> 18138669622</p>
+        <p><strong>Website:</strong> <a href="http://www.tampaymca.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.383626,28.1062</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Santa Barbara Family YMCA</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Santa Barbara Family YMCA</h3>
+        <p><strong>Address:</strong> 36 Hitchcock Way, Santa Barbara, CA 93105</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 18056877727</p>
+        <p><strong>Website:</strong> <a href="https://www.ciymca.org/locations/santa-barbara-family-ymca" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.745507,34.437977</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Montecito Family YMCA</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Montecito Family YMCA</h3>
+        <p><strong>Address:</strong> 591 Santa Rosa Ln, Santa Barbara, CA 93108</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 18059693288</p>
+        <p><strong>Website:</strong> <a href="https://www.ciymca.org/locations/santa-barbara-family-ymca" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.63081,34.432481</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Life Time Champions</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Champions</h3>
+        <p><strong>Address:</strong> 7717 Willow Chase Blvd, Houston, TX 77070</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 12814699300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/champions.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.545602,29.966013</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>PAC Gym (Performance Athletic Center)</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>PAC Gym (Performance Athletic Center)</h3>
+        <p><strong>Address:</strong> 14724 Almeda School Rd, Houston, TX 77047</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 17133645130</p>
+        <p><strong>Website:</strong> <a href="https://www.thepacgym.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.418216,29.590272</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Trotter Family YMCA</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Trotter Family YMCA</h3>
+        <p><strong>Address:</strong> 1331 Augusta Dr, Houston, TX 77057</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 17137811061</p>
+        <p><strong>Website:</strong> <a href="https://ymcahouston.org/locations/trotter-family-ymca" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.482023,29.752975</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Quillian Memorial Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Quillian Memorial Center</h3>
+        <p><strong>Address:</strong> 10570 Westpark Drive, Houston, Texas, 77042</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 713-781-9195</p>
+        <p><strong>Website:</strong> <a href="https://www.quilliancenter.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.55431,29.72521</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Winter Park YMCA Family Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Winter Park YMCA Family Center</h3>
+        <p><strong>Address:</strong> 1201 N Lakemont Ave, Winter Park, FL 32792</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14076441509</p>
+        <p><strong>Website:</strong> <a href="https://ymcacf.org/locations/winterpark/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.328712,28.609663</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Goleta Valley Athletic Club</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Goleta Valley Athletic Club</h3>
+        <p><strong>Address:</strong> 170 Los Carneros Way, Goleta, CA 93117</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 18059681023</p>
+        <p><strong>Website:</strong> <a href="http://gvac.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.853819,34.431638</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The Riekes Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>The Riekes Center</h3>
+        <p><strong>Address:</strong> 3455 Edison Way Menlo Park, CA 94025</p>
+        <p><strong>Region:</strong> San Jose</p>
+        <p><strong>Phone:</strong> (650) 364-2509</p>
+        <p><strong>Website:</strong> <a href="riekes.org" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-122.19856,37.47678</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Eastside Branch Library</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Eastside Branch Library</h3>
+        <p><strong>Address:</strong> 1102 E Montecito St, Santa Barbara, CA 93103</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 805-963-3727</p>
+        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/7933" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.680046,34.426608</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Goleta Valley Branch Library</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Goleta Valley Branch Library</h3>
+        <p><strong>Address:</strong> 500 N Fairview Ave, Goleta, CA 93117</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 805-964-7878</p>
+        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/7934" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.829916,34.447462</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Montecito Branch Library</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Montecito Branch Library</h3>
+        <p><strong>Address:</strong> 1469 E Valley Rd, Montecito, CA 93108</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 805-969-5063</p>
+        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/7936" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.63354,34.43666</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Santa Barbara Public Library</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Santa Barbara Public Library</h3>
+        <p><strong>Address:</strong> 40 E Anapamu St, Santa Barbara, CA 93101</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 805-962-7653</p>
+        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/7931" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.70324,34.423775</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Bellaire City Library</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Bellaire City Library</h3>
+        <p><strong>Address:</strong> 5111 Jessamine St, Bellaire, TX 77401</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 713-662-8160</p>
+        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/13145" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.469467,29.701763</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Cinco Ranch Branch Library</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Cinco Ranch Branch Library</h3>
+        <p><strong>Address:</strong> 2620 Commercial Center Blvd, Katy, TX 77494</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 281-395-1311</p>
+        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/24521" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.776931,29.741028</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>University Branch Library</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>University Branch Library</h3>
+        <p><strong>Address:</strong> 14010 University Blvd, Sugar Land, TX 77479</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 281-633-5100</p>
+        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/194354" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.647868,29.57513</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Windermere Branch Library</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Windermere Branch Library</h3>
+        <p><strong>Address:</strong> 530 Main St, Windermere, FL 34786</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14078357323</p>
+        <p><strong>Website:</strong> <a href="https://ocls.org/locations-hours/windermere-branch/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.535741,28.494443</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Southwest Branch Library</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Southwest Branch Library</h3>
+        <p><strong>Address:</strong> 7255 Della Dr, Orlando, FL 32819</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14078357323</p>
+        <p><strong>Website:</strong> <a href="https://ocls.org/locations-hours/southwest-branch/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.489655,28.455961</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>University of Tampa</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>University of Tampa</h3>
+        <p><strong>Address:</strong> 401 W Kennedy Blvd, Tampa, FL 33606</p>
+        <p><strong>Region:</strong> Tampa</p>
+        <p><strong>Phone:</strong> 18132533333</p>
+        <p><strong>Website:</strong> <a href="http://www.ut.edu/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.464115,27.94657</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Roper YMCA Family Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Roper YMCA Family Center</h3>
+        <p><strong>Address:</strong> 100 Windermere Rd, Winter Garden, FL 34787</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14076568816</p>
+        <p><strong>Website:</strong> <a href="https://ymcacf.org/locations/roper/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.559567,28.54341</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Valencia College Lake Nona Campus</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Valencia College Lake Nona Campus</h3>
+        <p><strong>Address:</strong> 12350 Narcoossee Rd, Orlando, FL 32832</p>
+        <p><strong>Region:</strong> Orlando</p>
+        <p><strong>Phone:</strong> 14075828163</p>
+        <p><strong>Website:</strong> <a href="https://valenciacollege.edu/locations/lake-nona/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.246129,28.384736</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Woodlands Indoor</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Woodlands Indoor</h3>
+        <p><strong>Address:</strong> 28408 Sweetgum Rd, Magnolia, TX 77354</p>
+        <p><strong>Region:</strong> Houston</p>
+        
+        <p><strong>Website:</strong> <a href="https://www.woodlandsindoor.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.571072,30.171382</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The Woodlands Family YMCA at Branch Crossing</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>The Woodlands Family YMCA at Branch Crossing</h3>
+        <p><strong>Address:</strong> 8100 Ashlane Way, The Woodlands, TX 77382</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 12813679622</p>
+        <p><strong>Website:</strong> <a href="https://ymcahouston.org/locations/woodlands-family-ymca-branch-crossing" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.562693,30.182857</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The Woodlands Family YMCA at Shadowbend</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>The Woodlands Family YMCA at Shadowbend</h3>
+        <p><strong>Address:</strong> 6145 Shadowbend Pl, The Woodlands, TX 77381</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 12813679622</p>
+        <p><strong>Website:</strong> <a href="https://ymcahouston.org/locations/woodlands-family-ymca-shadowbend" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.491959,30.186425</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Element Sportsplex</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Element Sportsplex</h3>
+        <p><strong>Address:</strong> 12920 Theis Ln, Tomball, TX 77375</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> (281) 377-6242</p>
+        <p><strong>Website:</strong> <a href="http://elementsportsplex.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.615216,30.077463</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Villa Sport at Cypress</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Villa Sport at Cypress</h3>
+        <p><strong>Address:</strong> 12951 Barker Cypress Rd, Cypress, TX 77429</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 13468185114</p>
+        <p><strong>Website:</strong> <a href="https://www.villasport.com/cypress/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.674698,29.963946</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Fairfield Athletic Club</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Fairfield Athletic Club</h3>
+        <p><strong>Address:</strong> 16055 Mason Rd, Cypress, TX 77433</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 12813730834</p>
+        <p><strong>Website:</strong> <a href="http://fairfieldathleticclub.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.744519,30.005655</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Mark A. Chapman YMCA at Katy Main Street</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Mark A. Chapman YMCA at Katy Main Street</h3>
+        <p><strong>Address:</strong> 1350 Main St, Katy, TX 77494</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 12816651213</p>
+        <p><strong>Website:</strong> <a href="https://ymcahouston.org/locations/mark-chapman-ymca-katy-main-street" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.82518,29.7718</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Open Court Sports Complex</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Open Court Sports Complex</h3>
+        <p><strong>Address:</strong> 1808 Woodcreek Bend Ln, Katy, TX 77494</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 12813956736</p>
+        <p><strong>Website:</strong> <a href="http://ocsckaty.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.832472,29.758219</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Villa Sport at Katy</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Villa Sport at Katy</h3>
+        <p><strong>Address:</strong> 9930 Gaston Rd, Katy, TX 77494</p>
+        <p><strong>Region:</strong> Houston</p>
+        <p><strong>Phone:</strong> 13463222468</p>
+        <p><strong>Website:</strong> <a href="https://www.villasport.com/cinco-ranch/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.81173,29.737707</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
