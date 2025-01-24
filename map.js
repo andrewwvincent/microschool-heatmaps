@@ -43,30 +43,9 @@ function initializeMap() {
         });
     });
     
-    // Add popup on click
-    map.on('click', 'demographics', (e) => {
-        if (!e.features.length) return;
-        
-        const feature = e.features[0];
-        const coordinates = e.lngLat;
-        
-        const popupContent = `
-            <strong>Category:</strong> ${feature.properties.category}<br>
-            <strong>Location:</strong> ${coordinates.lat.toFixed(4)}, ${coordinates.lng.toFixed(4)}
-        `;
-        
-        new mapboxgl.Popup()
-            .setLngLat(coordinates)
-            .setHTML(popupContent)
-            .addTo(map);
-        
-        // Update info panel
-        document.getElementById('feature-info').innerHTML = popupContent;
-    });
-    
-    // Change cursor on hover
+    // Change cursor on hover for demographics layer
     map.on('mouseenter', 'demographics', () => {
-        map.getCanvas().style.cursor = 'pointer';
+        map.getCanvas().style.cursor = 'default';
     });
     
     map.on('mouseleave', 'demographics', () => {
