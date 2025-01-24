@@ -181,18 +181,18 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Aspen Red Brick Recreation Center</name>
+      <name>Aspen Recreation Center</name>
       <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
-        <h3>Aspen Red Brick Recreation Center</h3>
-        <p><strong>Address:</strong> 110 E Hallam St # 135, Aspen, CO 81611</p>
+        <h3>Aspen Recreation Center</h3>
+        <p><strong>Address:</strong> 0861 Maroon Creek Rd, Aspen, CO 81611</p>
         <p><strong>Region:</strong> Aspen</p>
-        <p><strong>Phone:</strong> 19709205140</p>
-        <p><strong>Website:</strong> <a href="http://www.aspenrecreation.com/red-brick-recreation-center" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred</p>
+        <p><strong>Phone:</strong> 19705444100</p>
+        <p><strong>Website:</strong> <a href="http://www.aspenrecreation.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
       ]]></description>
       <Point>
-        <coordinates>-106.82109,39.193181</coordinates>
+        <coordinates>-106.850859,39.189359</coordinates>
       </Point>
     </Placemark>
   </Document>

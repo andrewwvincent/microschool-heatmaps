@@ -1305,5 +1305,20 @@
         <coordinates>-80.069581,26.669411</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Aspen Red Brick Recreation Center</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Aspen Red Brick Recreation Center</h3>
+        <p><strong>Address:</strong> 110 E Hallam St # 135, Aspen, CO 81611</p>
+        <p><strong>Region:</strong> Aspen</p>
+        <p><strong>Phone:</strong> 19709205140</p>
+        <p><strong>Website:</strong> <a href="http://www.aspenrecreation.com/red-brick-recreation-center" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-106.82109,39.193181</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
