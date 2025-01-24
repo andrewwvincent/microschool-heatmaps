@@ -75,7 +75,7 @@ function initializeMap() {
 }
 
 // Load the list of available cities
-function loadCityList() {
+async function loadCityList() {
     // Helper function to format city name
     function formatCityName(name) {
         // Remove any file extensions
@@ -95,11 +95,31 @@ function loadCityList() {
     }
 
     try {
-        // Get cities from config and format their names
-        const formattedCities = {};
-        Object.entries(config.cities).forEach(([city, paths]) => {
-            const formattedName = formatCityName(city);
-            formattedCities[formattedName] = paths;
+        // Fetch list of files in data directory
+        const response = await fetch('data/');
+        const text = await response.text();
+        
+        // Create a temporary div to parse the directory listing HTML
+        const div = document.createElement('div');
+        div.innerHTML = text;
+        
+        // Find all KML files (excluding locations directory)
+        const kmlFiles = Array.from(div.querySelectorAll('a'))
+            .map(a => a.href)
+            .filter(href => href.endsWith('.kml'))
+            .filter(href => !href.includes('/locations/'))
+            .map(href => href.split('/').pop());
+
+        // Group files by city
+        const cities = {};
+        kmlFiles.forEach(file => {
+            const cityName = formatCityName(file);
+            const income = file.includes('500k') ? '500k' : '250k';
+            
+            if (!cities[cityName]) {
+                cities[cityName] = { '250k': [], '500k': [] };
+            }
+            cities[cityName][income].push(`data/${file}`);
         });
 
         // Wait for DOM to be ready
@@ -111,14 +131,14 @@ function loadCityList() {
                 return;
             }
 
-            // Update the city selector with formatted names
+            // Update the city selector with found cities
             citySelector.innerHTML = '<option value="">Select a city</option>' +
-                Object.keys(formattedCities).sort().map(city => 
+                Object.keys(cities).sort().map(city => 
                     `<option value="${city}">${city}</option>`
                 ).join('');
 
-            // Store the formatted cities back in config
-            config.cities = formattedCities;
+            // Store the cities in config
+            config.cities = cities;
 
             // Add event listener for city selection
             citySelector.addEventListener('change', (e) => {
@@ -135,6 +155,13 @@ function loadCityList() {
 
     } catch (error) {
         console.error('Error loading city list:', error);
+        // Fallback to config cities if directory listing fails
+        const formattedCities = {};
+        Object.entries(config.cities).forEach(([city, paths]) => {
+            const formattedName = formatCityName(city);
+            formattedCities[formattedName] = paths;
+        });
+        config.cities = formattedCities;
     }
 }
 
@@ -157,7 +184,146 @@ async function loadCity(cityName) {
         const features500k = await loadKMLFile(files['500k'], '500k');
         
         if (!features250k.length && !features500k.length) {
-            console.error("No features found in KML files for", cityName);
+            // Create modal backdrop
+            const backdrop = document.createElement('div');
+            backdrop.style.position = 'fixed';
+            backdrop.style.top = '0';
+            backdrop.style.left = '0';
+            backdrop.style.width = '100%';
+            backdrop.style.height = '100%';
+            backdrop.style.backgroundColor = 'rgba(0,0,0,0.5)';
+            backdrop.style.zIndex = '1000';
+            backdrop.style.display = 'flex';
+            backdrop.style.alignItems = 'center';
+            backdrop.style.justifyContent = 'center';
+
+            // Create modal dialog
+            const modal = document.createElement('div');
+            modal.style.backgroundColor = 'white';
+            modal.style.padding = '20px 30px';
+            modal.style.borderRadius = '8px';
+            modal.style.boxShadow = '0 4px 6px rgba(0,0,0,0.1)';
+            modal.style.maxWidth = '500px';
+            modal.style.width = '90%';
+            modal.style.position = 'relative';
+
+            // Add close button
+            const closeBtn = document.createElement('button');
+            closeBtn.innerHTML = '×';
+            closeBtn.style.position = 'absolute';
+            closeBtn.style.right = '10px';
+            closeBtn.style.top = '10px';
+            closeBtn.style.border = 'none';
+            closeBtn.style.background = 'none';
+            closeBtn.style.fontSize = '24px';
+            closeBtn.style.cursor = 'pointer';
+            closeBtn.style.color = '#666';
+            closeBtn.onclick = () => backdrop.remove();
+
+            // Add content
+            const title = document.createElement('h3');
+            title.style.marginTop = '0';
+            title.style.marginBottom = '15px';
+            title.style.color = '#333';
+            title.innerHTML = 'No Data Available';
+
+            const content = document.createElement('p');
+            content.style.margin = '0';
+            content.style.lineHeight = '1.5';
+            content.style.color = '#666';
+            content.innerHTML = `No areas found in ${cityName} with more than 500 children in households earning $250,000 or more annually.`;
+
+            // Create progress circle container
+            const progressContainer = document.createElement('div');
+            progressContainer.style.display = 'flex';
+            progressContainer.style.justifyContent = 'center';
+            progressContainer.style.marginTop = '20px';
+
+            // Create SVG for progress circle
+            const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+            svg.setAttribute('width', '40');
+            svg.setAttribute('height', '40');
+            svg.style.transform = 'rotate(-90deg)';
+
+            // Create circle background
+            const circleBackground = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+            circleBackground.setAttribute('cx', '20');
+            circleBackground.setAttribute('cy', '20');
+            circleBackground.setAttribute('r', '15');
+            circleBackground.setAttribute('fill', 'none');
+            circleBackground.setAttribute('stroke', '#eee');
+            circleBackground.setAttribute('stroke-width', '3');
+
+            // Create progress circle
+            const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+            circle.setAttribute('cx', '20');
+            circle.setAttribute('cy', '20');
+            circle.setAttribute('r', '15');
+            circle.setAttribute('fill', 'none');
+            circle.setAttribute('stroke', '#4CAF50');
+            circle.setAttribute('stroke-width', '3');
+            circle.setAttribute('stroke-dasharray', `${2 * Math.PI * 15}`);
+            circle.setAttribute('stroke-dashoffset', '0');
+
+            // Create countdown text
+            const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+            text.setAttribute('x', '20');
+            text.setAttribute('y', '20');
+            text.setAttribute('text-anchor', 'middle');
+            text.setAttribute('dominant-baseline', 'middle');
+            text.setAttribute('fill', '#666');
+            text.style.transform = 'rotate(90deg)';
+            text.style.transformOrigin = 'center';
+            text.style.fontSize = '12px';
+            text.textContent = '5';
+
+            svg.appendChild(circleBackground);
+            svg.appendChild(circle);
+            svg.appendChild(text);
+            progressContainer.appendChild(svg);
+
+            modal.appendChild(closeBtn);
+            modal.appendChild(title);
+            modal.appendChild(content);
+            modal.appendChild(progressContainer);
+            backdrop.appendChild(modal);
+
+            // Remove any existing modal
+            const existingModal = document.querySelector('.modal-backdrop');
+            if (existingModal) {
+                existingModal.remove();
+            }
+
+            backdrop.className = 'modal-backdrop';
+            document.body.appendChild(backdrop);
+
+            // Close modal when clicking backdrop
+            backdrop.addEventListener('click', (e) => {
+                if (e.target === backdrop) {
+                    backdrop.remove();
+                }
+            });
+
+            // Animate progress circle
+            const circumference = 2 * Math.PI * 15;
+            let timeLeft = 5;
+            const interval = setInterval(() => {
+                timeLeft--;
+                if (timeLeft >= 0) {
+                    const offset = (timeLeft / 5) * circumference;
+                    circle.setAttribute('stroke-dashoffset', (circumference - offset).toString());
+                    text.textContent = timeLeft.toString();
+                }
+            }, 1000);
+
+            // Remove modal after 5 seconds
+            setTimeout(() => {
+                clearInterval(interval);
+                if (document.body.contains(backdrop)) {
+                    backdrop.remove();
+                }
+            }, 5000);
+            
             return;
         }
 
