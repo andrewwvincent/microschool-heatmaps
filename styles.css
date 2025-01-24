@@ -135,6 +135,26 @@ h3 {
     border-radius: 4px;
 }
 
+.city-selector {
+    margin: 20px 0;
+    padding: 0 15px;
+}
+
+.city-dropdown {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 14px;
+}
+
+.city-dropdown:focus {
+    outline: none;
+    border-color: #4CAF50;
+    box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.2);
+}
+
 #citySelect {
     width: 100%;
     padding: 8px 12px;

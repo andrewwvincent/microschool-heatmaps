@@ -95,50 +95,18 @@ async function loadCityList() {
     }
 
     try {
-        // Fetch list of files in data directory
-        const response = await fetch('data/');
-        const text = await response.text();
-        
-        // Create a temporary div to parse the directory listing HTML
-        const div = document.createElement('div');
-        div.innerHTML = text;
-        
-        // Find all KML files (excluding locations directory)
-        const kmlFiles = Array.from(div.querySelectorAll('a'))
-            .map(a => a.href)
-            .filter(href => href.endsWith('.kml'))
-            .filter(href => !href.includes('/locations/'))
-            .map(href => href.split('/').pop());
-
-        // Group files by city
-        const cities = {};
-        kmlFiles.forEach(file => {
-            const cityName = formatCityName(file);
-            const income = file.includes('500k') ? '500k' : '250k';
-            
-            if (!cities[cityName]) {
-                cities[cityName] = { '250k': [], '500k': [] };
-            }
-            cities[cityName][income].push(`data/${file}`);
-        });
-
-        // Wait for DOM to be ready
+        // Initialize the city selector
         const initializeSelector = () => {
-            const citySelector = document.getElementById('citySelect');
-            if (!citySelector) {
-                console.error('City selector element not found, retrying in 100ms');
-                setTimeout(initializeSelector, 100);
-                return;
-            }
-
-            // Update the city selector with found cities
-            citySelector.innerHTML = '<option value="">Select a city</option>' +
-                Object.keys(cities).sort().map(city => 
-                    `<option value="${city}">${city}</option>`
-                ).join('');
-
-            // Store the cities in config
-            config.cities = cities;
+            const citySelector = document.getElementById('city-selector');
+            citySelector.innerHTML = '<option value="">Select a city</option>';
+            
+            // Add cities from config
+            Object.keys(config.cities).sort().forEach(city => {
+                const option = document.createElement('option');
+                option.value = city;
+                option.textContent = city;
+                citySelector.appendChild(option);
+            });
 
             // Add event listener for city selection
             citySelector.addEventListener('change', (e) => {
@@ -591,7 +559,7 @@ async function loadKMLFile(kmlFile, income) {
 // Set up event listeners
 function setupEventListeners() {
     // City selection
-    document.getElementById('citySelect').addEventListener('change', (e) => {
+    document.getElementById('city-selector').addEventListener('change', (e) => {
         loadCity(e.target.value);
     });
 

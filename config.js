@@ -83,6 +83,18 @@ const config = {
         'West Palm Beach': {
             '250k': 'data/West_Palm_Beach_Demographics_Kids__$250k_HH_Income_250k_filtered.kml',
             '500k': 'data/West_Palm_Beach_Demographics_Kids__$250k_HH_Income_500k_filtered.kml'
+        },
+        'Aspen': {
+            '250k': 'data/Aspen_Demographics_Kids__$250k_HH_Income_250k_filtered.kml',
+            '500k': 'data/Aspen_Demographics_Kids__$250k_HH_Income_500k_filtered.kml'
+        },
+        'NYC': {
+            '250k': 'data/NYC_Demographics_Kids__$250k_HH_Income_250k_filtered.kml',
+            '500k': 'data/NYC_Demographics_Kids__$250k_HH_Income_500k_filtered.kml'
+        },
+        'Bay Area': {
+            '250k': ['data/Bay Area Demographics_250k_filtered_part1.kml', 'data/Bay Area Demographics_250k_filtered_part2.kml'],
+            '500k': 'data/Bay Area Demographics_500k_filtered.kml'
         }
     }
 };
