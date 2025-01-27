@@ -89,8 +89,8 @@ const config = {
             '500k': 'data/Aspen_Demographics_Kids__$250k_HH_Income_500k_filtered.kml'
         },
         'NYC': {
-            '250k': 'data/NYC_Demographics_Kids__$250k_HH_Income_250k_filtered.kml',
-            '500k': 'data/NYC_Demographics_Kids__$250k_HH_Income_500k_filtered.kml'
+            '250k': 'data/NYC_-_10_Mins_Demographics_Kids__$250k_HH_Income_250k_filtered.kml',
+            '500k': 'data/NYC_-_10_Mins_Demographics_Kids__$250k_HH_Income_500k_filtered.kml'
         },
         'Bay Area': {
             '250k': ['data/Bay Area Demographics_250k_filtered_part1.kml', 'data/Bay Area Demographics_250k_filtered_part2.kml'],

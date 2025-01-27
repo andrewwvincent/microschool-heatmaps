@@ -16,6 +16,51 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>Asphalt Green - Battery Park City</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Asphalt Green - Battery Park City</h3>
+        <p><strong>Address:</strong> 212 N End Ave New York, NY 10282</p>
+        <p><strong>Region:</strong> New York</p>
+        <p><strong>Phone:</strong> (212) 298-2900</p>
+        <p><strong>Website:</strong> <a href="asphaltgreen.org" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.014816,40.71603</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Asphalt Green - Upper East Side campus</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Asphalt Green - Upper East Side campus</h3>
+        <p><strong>Address:</strong> 555 E 90th St, New York, NY 10128</p>
+        <p><strong>Region:</strong> New York</p>
+        <p><strong>Phone:</strong> 12123698890</p>
+        <p><strong>Website:</strong> <a href="http://www.asphaltgreen.org/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.943487,40.778151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Globall Sports Centers - Brooklyn</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Globall Sports Centers - Brooklyn</h3>
+        <p><strong>Address:</strong> 1561 Bedford Ave, Brooklyn, NY 11225</p>
+        <p><strong>Region:</strong> Brooklyn</p>
+        <p><strong>Phone:</strong> 19297772672</p>
+        <p><strong>Website:</strong> <a href="http://globallsportscenters.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.955307,40.668753</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Santa Barbara Family YMCA</name>
       <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
@@ -24,7 +69,7 @@
         <p><strong>Region:</strong> Santa Barbara</p>
         <p><strong>Phone:</strong> 18056877727</p>
         <p><strong>Website:</strong> <a href="https://www.ciymca.org/locations/santa-barbara-family-ymca" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Location</p>
+        <p><strong>Type:</strong> Preferred</p>
       ]]></description>
       <Point>
         <coordinates>-119.745507,34.437977</coordinates>
@@ -219,7 +264,7 @@
         <p><strong>Region:</strong> Santa Barbara</p>
         <p><strong>Phone:</strong> 805-705-1149</p>
         <p><strong>Website:</strong> <a href="https://www.loopnet.com/Listing/25-E-Mason-St-Santa-Barbara-CA/29269336/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Location</p>
+        <p><strong>Type:</strong> Preferred</p>
       ]]></description>
       <Point>
         <coordinates>-119.689804,34.413956</coordinates>
@@ -234,7 +279,7 @@
         <p><strong>Region:</strong> Santa Barbara</p>
         <p><strong>Phone:</strong> 805-455-6891</p>
         <p><strong>Website:</strong> <a href="https://www.loopnet.com/Listing/27-E-Cota-St-Santa-Barbara-CA/31866404/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Location</p>
+        <p><strong>Type:</strong> Preferred</p>
       ]]></description>
       <Point>
         <coordinates>-119.69625,34.41865</coordinates>

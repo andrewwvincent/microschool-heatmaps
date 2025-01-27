@@ -316,36 +316,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Asphalt Green - Battery Park City</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Asphalt Green - Battery Park City</h3>
-        <p><strong>Address:</strong> 212 N End Ave New York, NY 10282</p>
-        <p><strong>Region:</strong> New York</p>
-        <p><strong>Phone:</strong> (212) 298-2900</p>
-        <p><strong>Website:</strong> <a href="asphaltgreen.org" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-74.014816,40.71603</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Asphalt Green - Upper East Side campus</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Asphalt Green - Upper East Side campus</h3>
-        <p><strong>Address:</strong> 555 E 90th St, New York, NY 10128</p>
-        <p><strong>Region:</strong> New York</p>
-        <p><strong>Phone:</strong> 12123698890</p>
-        <p><strong>Website:</strong> <a href="http://www.asphaltgreen.org/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-73.943487,40.778151</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Fastbreak Sports</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
@@ -358,36 +328,6 @@
       ]]></description>
       <Point>
         <coordinates>-73.95023,40.776101</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Globall Sports Centers - Brooklyn</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Globall Sports Centers - Brooklyn</h3>
-        <p><strong>Address:</strong> 1561 Bedford Ave, Brooklyn, NY 11225</p>
-        <p><strong>Region:</strong> Brooklyn</p>
-        <p><strong>Phone:</strong> 19297772672</p>
-        <p><strong>Website:</strong> <a href="http://globallsportscenters.com/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-73.955307,40.668753</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Major R. Owens Health and Wellness Community Center</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Major R. Owens Health and Wellness Community Center</h3>
-        <p><strong>Address:</strong> 1561 Bedford Ave, Brooklyn, NY 11225</p>
-        <p><strong>Region:</strong> Brooklyn</p>
-        <p><strong>Phone:</strong> 17189719202</p>
-        <p><strong>Website:</strong> <a href="https://www.majorowenscenter.com/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-73.955307,40.668753</coordinates>
       </Point>
     </Placemark>
     <Placemark>
