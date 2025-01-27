@@ -254,20 +254,39 @@ h3 {
 
 /* Location Markers */
 .location-marker {
+    background-size: cover;
     width: 20px;
     height: 20px;
     border-radius: 50%;
     cursor: pointer;
-    border: 2px solid white;
-    box-shadow: 0 0 4px rgba(0,0,0,0.4);
 }
 
 .location-marker.preferred {
-    background-color: #4CAF50;
+    background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23e72121" width="40" height="40"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 5.94 8.5 15.5 8.5 15.5s8.5-9.56 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z"/></svg>');
+    width: 40px;
+    height: 40px;
+    border-radius: 0;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .location-marker.other {
     background-color: #FFA500;
+}
+
+.marker-label {
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 14px;
+    white-space: nowrap;
+    color: #e72121;
+    font-weight: bold;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
 }
 
 /* Location Filter Styles */

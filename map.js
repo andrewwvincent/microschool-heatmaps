@@ -918,7 +918,21 @@ function createLocationMarker(location, type) {
     const el = document.createElement('div');
     el.className = `location-marker ${type}`;
     
-    const marker = new mapboxgl.Marker(el)
+    // Add label if it's a preferred location
+    if (type === 'preferred' && location.Organization) {
+        const label = document.createElement('div');
+        label.className = 'marker-label';
+        label.textContent = location.Organization;
+        el.appendChild(label);
+    }
+    
+    const markerOptions = {
+        element: el,
+        anchor: type === 'preferred' ? 'bottom' : 'center',
+        offset: type === 'preferred' ? [0, 0] : [0, 0]
+    };
+    
+    const marker = new mapboxgl.Marker(markerOptions)
         .setLngLat([location.longitude, location.latitude]);
     
     // Add popup
@@ -930,9 +944,10 @@ function createLocationMarker(location, type) {
         ${location.Website ? `<p><strong>Website:</strong> <a href="${location.Website}" target="_blank">Visit Website</a></p>` : ''}
     `;
     
-    const popup = new mapboxgl.Popup({ offset: 25 })
-        .setHTML(popupContent);
-        
+    const popup = new mapboxgl.Popup({
+        offset: type === 'preferred' ? [0, -40] : [0, -10]
+    }).setHTML(popupContent);
+    
     marker.setPopup(popup);
     
     return marker;
