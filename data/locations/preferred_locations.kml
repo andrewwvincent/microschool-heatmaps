@@ -84,7 +84,7 @@
         <p><strong>Region:</strong> Santa Barbara</p>
         <p><strong>Phone:</strong> 18059647762</p>
         <p><strong>Website:</strong> <a href="http://coac.swellclubs.com/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Suburb Location</p>
+        <p><strong>Type:</strong> Preferred</p>
       ]]></description>
       <Point>
         <coordinates>-119.824488,34.45275</coordinates>
@@ -279,7 +279,7 @@
         <p><strong>Region:</strong> Santa Barbara</p>
         <p><strong>Phone:</strong> 805-705-1149</p>
         <p><strong>Website:</strong> <a href="https://www.loopnet.com/Listing/25-E-Mason-St-Santa-Barbara-CA/29269336/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Location</p>
+        <p><strong>Type:</strong> Preferred</p>
       ]]></description>
       <Point>
         <coordinates>-119.689804,34.413956</coordinates>
@@ -313,6 +313,21 @@
       ]]></description>
       <Point>
         <coordinates>-111.866733,33.244825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time - Happy Valley - Peoria</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time - Happy Valley - Peoria</h3>
+        <p><strong>Address:</strong> 24700 N 67th Ave, Peoria, AZ 85383</p>
+        <p><strong>Region:</strong> Phoenix</p>
+        <p><strong>Phone:</strong> 16232593400</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/happy-valley-peoria.html?utm_source=google&utm_medium=local&utm_campaign=google-local-club" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-112.204345,33.708486</coordinates>
       </Point>
     </Placemark>
   </Document>
