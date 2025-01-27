@@ -826,21 +826,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Santa Barbara Family YMCA</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Santa Barbara Family YMCA</h3>
-        <p><strong>Address:</strong> 36 Hitchcock Way, Santa Barbara, CA 93105</p>
-        <p><strong>Region:</strong> Santa Barbara</p>
-        <p><strong>Phone:</strong> 18056877727</p>
-        <p><strong>Website:</strong> <a href="https://www.ciymca.org/locations/santa-barbara-family-ymca" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-119.745507,34.437977</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Montecito Family YMCA</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
@@ -1314,10 +1299,55 @@
         <p><strong>Region:</strong> Aspen</p>
         <p><strong>Phone:</strong> 19709205140</p>
         <p><strong>Website:</strong> <a href="http://www.aspenrecreation.com/red-brick-recreation-center" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other Target</p>
+        <p><strong>Type:</strong> Other</p>
       ]]></description>
       <Point>
         <coordinates>-106.82109,39.193181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2300 Garden St, Santa Barbara</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>2300 Garden St, Santa Barbara</h3>
+        <p><strong>Address:</strong> 2300 Garden St, Santa Barbara, CA 93105</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        
+        
+        <p><strong>Type:</strong> Other</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.715241,34.439245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UCSB</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>UCSB</h3>
+        <p><strong>Address:</strong> 1 UCEN Rd, Santa Barbara, CA 93106</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 18058938000</p>
+        <p><strong>Website:</strong> <a href="http://www.ucsb.edu/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.848405,34.4117</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SBCC</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>SBCC</h3>
+        <p><strong>Address:</strong> 721 Cliff Dr, Santa Barbara, CA 93109</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 18059650581</p>
+        <p><strong>Website:</strong> <a href="http://www.sbcc.edu/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.697459,34.4063</coordinates>
       </Point>
     </Placemark>
   </Document>
