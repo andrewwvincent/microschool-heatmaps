@@ -16,6 +16,21 @@
       </IconStyle>
     </Style>
     <Placemark>
+      <name>Victorium</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Victorium</h3>
+        <p><strong>Address:</strong> 9219 E Hidden Spur Trail, Scottsdale, AZ 85255</p>
+        <p><strong>Region:</strong> Scottsdale</p>
+        <p><strong>Phone:</strong> 14802647089</p>
+        <p><strong>Website:</strong> <a href="http://www.victorium.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.883004,33.644079</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Asphalt Green - Battery Park City</name>
       <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
@@ -24,7 +39,7 @@
         <p><strong>Region:</strong> New York</p>
         <p><strong>Phone:</strong> (212) 298-2900</p>
         <p><strong>Website:</strong> <a href="asphaltgreen.org" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Location</p>
+        <p><strong>Type:</strong> Preferred</p>
       ]]></description>
       <Point>
         <coordinates>-74.014816,40.71603</coordinates>
@@ -39,7 +54,7 @@
         <p><strong>Region:</strong> New York</p>
         <p><strong>Phone:</strong> 12123698890</p>
         <p><strong>Website:</strong> <a href="http://www.asphaltgreen.org/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Location</p>
+        <p><strong>Type:</strong> Preferred</p>
       ]]></description>
       <Point>
         <coordinates>-73.943487,40.778151</coordinates>
@@ -54,25 +69,25 @@
         <p><strong>Region:</strong> Brooklyn</p>
         <p><strong>Phone:</strong> 19297772672</p>
         <p><strong>Website:</strong> <a href="http://globallsportscenters.com/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred Location</p>
+        <p><strong>Type:</strong> Preferred</p>
       ]]></description>
       <Point>
         <coordinates>-73.955307,40.668753</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Santa Barbara Family YMCA</name>
+      <name>Swell Athletic Club</name>
       <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
-        <h3>Santa Barbara Family YMCA</h3>
-        <p><strong>Address:</strong> 36 Hitchcock Way, Santa Barbara, CA 93105</p>
+        <h3>Swell Athletic Club</h3>
+        <p><strong>Address:</strong> 5800 Cathedral Oaks Rd, Goleta, CA 93117</p>
         <p><strong>Region:</strong> Santa Barbara</p>
-        <p><strong>Phone:</strong> 18056877727</p>
-        <p><strong>Website:</strong> <a href="https://www.ciymca.org/locations/santa-barbara-family-ymca" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred</p>
+        <p><strong>Phone:</strong> 18059647762</p>
+        <p><strong>Website:</strong> <a href="http://coac.swellclubs.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Suburb Location</p>
       ]]></description>
       <Point>
-        <coordinates>-119.745507,34.437977</coordinates>
+        <coordinates>-119.824488,34.45275</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -256,33 +271,48 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>25 E Mason St, Santa Barbara</name>
+      <name>25 E Mason St</name>
       <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
-        <h3>25 E Mason St, Santa Barbara</h3>
+        <h3>25 E Mason St</h3>
         <p><strong>Address:</strong> 25 E Mason St, Santa Barbara, CA 93101</p>
         <p><strong>Region:</strong> Santa Barbara</p>
         <p><strong>Phone:</strong> 805-705-1149</p>
         <p><strong>Website:</strong> <a href="https://www.loopnet.com/Listing/25-E-Mason-St-Santa-Barbara-CA/29269336/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred</p>
+        <p><strong>Type:</strong> Preferred Location</p>
       ]]></description>
       <Point>
         <coordinates>-119.689804,34.413956</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>27 E. Cota St</name>
+      <name>SBCC</name>
       <styleUrl>#preferred</styleUrl>
       <description><![CDATA[
-        <h3>27 E. Cota St</h3>
-        <p><strong>Address:</strong> 27 E Cota St, Santa Barbara, CA 93101</p>
+        <h3>SBCC</h3>
+        <p><strong>Address:</strong> 721 Cliff Dr, Santa Barbara, CA 93109</p>
         <p><strong>Region:</strong> Santa Barbara</p>
-        <p><strong>Phone:</strong> 805-455-6891</p>
-        <p><strong>Website:</strong> <a href="https://www.loopnet.com/Listing/27-E-Cota-St-Santa-Barbara-CA/31866404/" target="_blank">Visit Website</a></p>
+        <p><strong>Phone:</strong> 18059650581</p>
+        <p><strong>Website:</strong> <a href="http://www.sbcc.edu/" target="_blank">Visit Website</a></p>
         <p><strong>Type:</strong> Preferred</p>
       ]]></description>
       <Point>
-        <coordinates>-119.69625,34.41865</coordinates>
+        <coordinates>-119.697459,34.4063</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ocotillo Village Health Club and Spa</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Ocotillo Village Health Club and Spa</h3>
+        <p><strong>Address:</strong> 4200 S Alma School Rd, Chandler, AZ 85248</p>
+        <p><strong>Region:</strong> Phoenix</p>
+        <p><strong>Phone:</strong> 14806560045</p>
+        <p><strong>Website:</strong> <a href="http://villageclubs.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.866733,33.244825</coordinates>
       </Point>
     </Placemark>
   </Document>

@@ -46,21 +46,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Victorium</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Victorium</h3>
-        <p><strong>Address:</strong> 9219 E Hidden Spur Trail, Scottsdale, AZ 85255</p>
-        <p><strong>Region:</strong> Scottsdale</p>
-        <p><strong>Phone:</strong> 14802647089</p>
-        <p><strong>Website:</strong> <a href="http://www.victorium.com/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-111.883004,33.644079</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Momentous Sports Center</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
@@ -721,21 +706,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Swell Athletic Club</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Swell Athletic Club</h3>
-        <p><strong>Address:</strong> 5800 Cathedral Oaks Rd, Goleta, CA 93117</p>
-        <p><strong>Region:</strong> Santa Barbara</p>
-        <p><strong>Phone:</strong> 18059647762</p>
-        <p><strong>Website:</strong> <a href="http://coac.swellclubs.com/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-119.824488,34.45275</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Bob Gilbertson Central City Family YMCA</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
@@ -763,6 +733,21 @@
       ]]></description>
       <Point>
         <coordinates>-82.383626,28.1062</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Barbara Family YMCA</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Santa Barbara Family YMCA</h3>
+        <p><strong>Address:</strong> 36 Hitchcock Way, Santa Barbara, CA 93105</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 18056877727</p>
+        <p><strong>Website:</strong> <a href="https://www.ciymca.org/locations/santa-barbara-family-ymca" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.745507,34.437977</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -883,141 +868,6 @@
       ]]></description>
       <Point>
         <coordinates>-122.19856,37.47678</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Eastside Branch Library</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Eastside Branch Library</h3>
-        <p><strong>Address:</strong> 1102 E Montecito St, Santa Barbara, CA 93103</p>
-        <p><strong>Region:</strong> Santa Barbara</p>
-        <p><strong>Phone:</strong> 805-963-3727</p>
-        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/7933" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-119.680046,34.426608</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Goleta Valley Branch Library</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Goleta Valley Branch Library</h3>
-        <p><strong>Address:</strong> 500 N Fairview Ave, Goleta, CA 93117</p>
-        <p><strong>Region:</strong> Santa Barbara</p>
-        <p><strong>Phone:</strong> 805-964-7878</p>
-        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/7934" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-119.829916,34.447462</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Montecito Branch Library</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Montecito Branch Library</h3>
-        <p><strong>Address:</strong> 1469 E Valley Rd, Montecito, CA 93108</p>
-        <p><strong>Region:</strong> Santa Barbara</p>
-        <p><strong>Phone:</strong> 805-969-5063</p>
-        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/7936" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-119.63354,34.43666</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Santa Barbara Public Library</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Santa Barbara Public Library</h3>
-        <p><strong>Address:</strong> 40 E Anapamu St, Santa Barbara, CA 93101</p>
-        <p><strong>Region:</strong> Santa Barbara</p>
-        <p><strong>Phone:</strong> 805-962-7653</p>
-        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/7931" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-119.70324,34.423775</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Bellaire City Library</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Bellaire City Library</h3>
-        <p><strong>Address:</strong> 5111 Jessamine St, Bellaire, TX 77401</p>
-        <p><strong>Region:</strong> Houston</p>
-        <p><strong>Phone:</strong> 713-662-8160</p>
-        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/13145" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-95.469467,29.701763</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Cinco Ranch Branch Library</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Cinco Ranch Branch Library</h3>
-        <p><strong>Address:</strong> 2620 Commercial Center Blvd, Katy, TX 77494</p>
-        <p><strong>Region:</strong> Houston</p>
-        <p><strong>Phone:</strong> 281-395-1311</p>
-        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/24521" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-95.776931,29.741028</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>University Branch Library</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>University Branch Library</h3>
-        <p><strong>Address:</strong> 14010 University Blvd, Sugar Land, TX 77479</p>
-        <p><strong>Region:</strong> Houston</p>
-        <p><strong>Phone:</strong> 281-633-5100</p>
-        <p><strong>Website:</strong> <a href="https://librarytechnology.org/library/194354" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-95.647868,29.57513</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Windermere Branch Library</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Windermere Branch Library</h3>
-        <p><strong>Address:</strong> 530 Main St, Windermere, FL 34786</p>
-        <p><strong>Region:</strong> Orlando</p>
-        <p><strong>Phone:</strong> 14078357323</p>
-        <p><strong>Website:</strong> <a href="https://ocls.org/locations-hours/windermere-branch/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-81.535741,28.494443</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Southwest Branch Library</name>
-      <styleUrl>#other</styleUrl>
-      <description><![CDATA[
-        <h3>Southwest Branch Library</h3>
-        <p><strong>Address:</strong> 7255 Della Dr, Orlando, FL 32819</p>
-        <p><strong>Region:</strong> Orlando</p>
-        <p><strong>Phone:</strong> 14078357323</p>
-        <p><strong>Website:</strong> <a href="https://ocls.org/locations-hours/southwest-branch/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Other</p>
-      ]]></description>
-      <Point>
-        <coordinates>-81.489655,28.455961</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1246,18 +1096,33 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>2300 Garden St, Santa Barbara</name>
+      <name>2300 Garden St</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
-        <h3>2300 Garden St, Santa Barbara</h3>
+        <h3>2300 Garden St</h3>
         <p><strong>Address:</strong> 2300 Garden St, Santa Barbara, CA 93105</p>
         <p><strong>Region:</strong> Santa Barbara</p>
         
         
-        <p><strong>Type:</strong> Other</p>
+        <p><strong>Type:</strong> Other Target</p>
       ]]></description>
       <Point>
         <coordinates>-119.715241,34.439245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>27 E. Cota St</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>27 E. Cota St</h3>
+        <p><strong>Address:</strong> 27 E Cota St, Santa Barbara, CA 93101</p>
+        <p><strong>Region:</strong> Santa Barbara</p>
+        <p><strong>Phone:</strong> 805-455-6891</p>
+        <p><strong>Website:</strong> <a href="https://www.loopnet.com/Listing/27-E-Cota-St-Santa-Barbara-CA/31866404/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other</p>
+      ]]></description>
+      <Point>
+        <coordinates>-119.69625,34.41865</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1276,18 +1141,33 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>SBCC</name>
+      <name>Life Time - Gilbert</name>
       <styleUrl>#other</styleUrl>
       <description><![CDATA[
-        <h3>SBCC</h3>
-        <p><strong>Address:</strong> 721 Cliff Dr, Santa Barbara, CA 93109</p>
-        <p><strong>Region:</strong> Santa Barbara</p>
-        <p><strong>Phone:</strong> 18059650581</p>
-        <p><strong>Website:</strong> <a href="http://www.sbcc.edu/" target="_blank">Visit Website</a></p>
+        <h3>Life Time - Gilbert</h3>
+        <p><strong>Address:</strong> 381 E Warner Rd, Gilbert, AZ 85296</p>
+        <p><strong>Region:</strong> Phoenix</p>
+        <p><strong>Phone:</strong> 14808925020</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/gilbert.html?utm_source=google&utm_medium=local&utm_campaign=google-local-club" target="_blank">Visit Website</a></p>
         <p><strong>Type:</strong> Other</p>
       ]]></description>
       <Point>
-        <coordinates>-119.697459,34.4063</coordinates>
+        <coordinates>-111.782825,33.333908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mountainside Fitness Surprise</name>
+      <styleUrl>#other</styleUrl>
+      <description><![CDATA[
+        <h3>Mountainside Fitness Surprise</h3>
+        <p><strong>Address:</strong> 15455 W Bell Rd, Surprise, AZ 85374</p>
+        <p><strong>Region:</strong> Phoenix</p>
+        <p><strong>Phone:</strong> 16238890374</p>
+        <p><strong>Website:</strong> <a href="https://mountainsidefitness.com/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Other</p>
+      ]]></description>
+      <Point>
+        <coordinates>-112.392022,33.637228</coordinates>
       </Point>
     </Placemark>
   </Document>
