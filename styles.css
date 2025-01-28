@@ -275,7 +275,7 @@ h3 {
 }
 
 .marker-label {
-    display: none;
+    display: block;
     position: absolute;
     top: -30px;
     left: 50%;

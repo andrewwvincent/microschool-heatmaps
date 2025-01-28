@@ -330,20 +330,5 @@
         <coordinates>-112.204345,33.708486</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
-      <name>The Well Activity Center</name>
-      <styleUrl>#preferred</styleUrl>
-      <description><![CDATA[
-        <h3>The Well Activity Center</h3>
-        <p><strong>Address:</strong> 110 Athletes Row, Apopka, FL 32703</p>
-        <p><strong>Region:</strong> Orlando</p>
-        <p><strong>Phone:</strong> 13213708583</p>
-        <p><strong>Website:</strong> <a href="https://thewellactivitycenter.com/" target="_blank">Visit Website</a></p>
-        <p><strong>Type:</strong> Preferred</p>
-      ]]></description>
-      <Point>
-        <coordinates>-81.520914,28.67628</coordinates>
-      </Point>
-    </Placemark>
   </Document>
 </kml>

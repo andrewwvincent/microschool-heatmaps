@@ -919,10 +919,10 @@ function createLocationMarker(location, type) {
     el.className = `location-marker ${type}`;
     
     // Add label if it's a preferred location
-    if (type === 'preferred' && location.Organization) {
+    if (type === 'preferred' && location.name) {
         const label = document.createElement('div');
         label.className = 'marker-label';
-        label.textContent = location.Organization;
+        label.textContent = location.name;
         el.appendChild(label);
     }
     
